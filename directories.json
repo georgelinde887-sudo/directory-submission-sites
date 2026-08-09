@@ -1,0 +1,3248 @@
+[
+  {
+    "name": "Linkedin",
+    "score": 96,
+    "url": "https://www.linkedin.com/groups/1144987",
+    "pricing": "Free"
+  },
+  {
+    "name": "AltHunt",
+    "score": 95,
+    "url": "https://althunt.io",
+    "pricing": "Free"
+  },
+  {
+    "name": "Medium",
+    "score": 96,
+    "url": "https://medium.com/new-story",
+    "pricing": "Free"
+  },
+  {
+    "name": "Cnet",
+    "score": 95,
+    "url": "https://upload.cnet.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Reddit",
+    "score": 95,
+    "url": "https://www.reddit.com/r/AlphaandBetausers/submit",
+    "pricing": "Free"
+  },
+  {
+    "name": "Engadget",
+    "score": 94,
+    "url": "https://www.engadget.com/about/contact",
+    "pricing": "Free"
+  },
+  {
+    "name": "TechCrunch",
+    "score": 94,
+    "url": "https://techcrunch.com/got-a-tip",
+    "pricing": "Free"
+  },
+  {
+    "name": "Wired",
+    "score": 94,
+    "url": "https://www.wired.com/about/feedback",
+    "pricing": "Free"
+  },
+  {
+    "name": "Business Insider",
+    "score": 93,
+    "url": "https://www.businessinsider.com/contact",
+    "pricing": "Free"
+  },
+  {
+    "name": "Mashable",
+    "score": 93,
+    "url": "https://mashable.com/submit",
+    "pricing": "Free"
+  },
+  {
+    "name": "Quora",
+    "score": 93,
+    "url": "https://www.quora.com/Whats-your-startup-and-hows-it-doing",
+    "pricing": "Free"
+  },
+  {
+    "name": "SourceForge",
+    "score": 93,
+    "url": "https://sourceforge.net/software/vendors/new",
+    "pricing": "Free"
+  },
+  {
+    "name": "The Verge",
+    "score": 93,
+    "url": "https://www.theverge.com/contact-the-verge",
+    "pricing": "Free"
+  },
+  {
+    "name": "Trustpilot",
+    "score": 93,
+    "url": "https://www.trustpilot.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Zdnet",
+    "score": 93,
+    "url": "https://www.zdnet.com/tip-us-off",
+    "pricing": "Free"
+  },
+  {
+    "name": "Arstechnica",
+    "score": 92,
+    "url": "https://arstechnica.com/contact-us",
+    "pricing": "Free"
+  },
+  {
+    "name": "Digg",
+    "score": 92,
+    "url": "http://digg.com/submit",
+    "pricing": "Free"
+  },
+  {
+    "name": "Digital Trends",
+    "score": 92,
+    "url": "http://digitaltrends.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "The Next Web",
+    "score": 92,
+    "url": "https://thenextweb.com/about/?contact",
+    "pricing": "Free"
+  },
+  {
+    "name": "Trust Pilot",
+    "score": 92,
+    "url": "https://business.trustpilot.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Venture Beat",
+    "score": 92,
+    "url": "https://venturebeat.com/2017/03/07/how-to-send-story-tips-securely-to-venturebeat",
+    "pricing": "Free"
+  },
+  {
+    "name": "CrunchBase",
+    "score": 91,
+    "url": "https://www.crunchbase.com/register",
+    "pricing": "Free"
+  },
+  {
+    "name": "Fiverr Gigs",
+    "score": 91,
+    "url": "https://www.fiverr.com/search/gigs?query=interview%20you%20entrepreneur%20startup&source=top-bar&search_in=everywhere&search-autocomplete-original-term=interview%20you%20entrepreneur%20startup",
+    "pricing": "Paid"
+  },
+  {
+    "name": "About .Me",
+    "score": 90,
+    "url": "http://about.me/signup/start",
+    "pricing": "Free"
+  },
+  {
+    "name": "Android Authority",
+    "score": 90,
+    "url": "https://www.androidauthority.com/app-developers",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Gartner",
+    "score": 90,
+    "url": "http://gartner.com/en/digital-markets/basic-listing",
+    "pricing": "Free"
+  },
+  {
+    "name": "Glassdoor",
+    "score": 90,
+    "url": "http://glassdoor.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Makeuseof",
+    "score": 90,
+    "url": "https://www.makeuseof.com/contact",
+    "pricing": "Free"
+  },
+  {
+    "name": "Boing Boing",
+    "score": 89,
+    "url": "http://boingboing.net/sub",
+    "pricing": "Free"
+  },
+  {
+    "name": "ProductHunt",
+    "score": 89,
+    "url": "https://www.producthunt.com/login",
+    "pricing": "Free"
+  },
+  {
+    "name": "Bleeping Computer",
+    "score": 88,
+    "url": "https://www.bleepingcomputer.com/startups/submit-startup",
+    "pricing": "Free"
+  },
+  {
+    "name": "Geek Wire",
+    "score": 88,
+    "url": "https://www.geekwire.com/submit-startup",
+    "pricing": "Free"
+  },
+  {
+    "name": "Tech In Asia",
+    "score": 88,
+    "url": "https://www.techinasia.com/startup-submit",
+    "pricing": "Free"
+  },
+  {
+    "name": "Angel",
+    "score": 87,
+    "url": "https://angel.co/companies",
+    "pricing": "Free"
+  },
+  {
+    "name": "AlternativeTo",
+    "score": 86,
+    "url": "https://alternativeto.net/account/signup",
+    "pricing": "Free"
+  },
+  {
+    "name": "Pearl Trees",
+    "score": 86,
+    "url": "http://www.pearltrees.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Technode",
+    "score": 86,
+    "url": "https://technode.com/write-for-us",
+    "pricing": "Free"
+  },
+  {
+    "name": "HackerNews",
+    "score": 85,
+    "url": "https://news.ycombinator.com/showhn.html",
+    "pricing": "Free"
+  },
+  {
+    "name": "Turbify",
+    "score": 85,
+    "url": "https://www.turbify.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Devpost",
+    "score": 83,
+    "url": "https://devpost.com/users/login",
+    "pricing": "Free"
+  },
+  {
+    "name": "Read Write",
+    "score": 83,
+    "url": "http://readwrite.com/page/contact",
+    "pricing": "Free"
+  },
+  {
+    "name": "Speaker Deck",
+    "score": 83,
+    "url": "https://speakerdeck.com/signup",
+    "pricing": "Free"
+  },
+  {
+    "name": "F6S",
+    "score": 82,
+    "url": "https://www.f6s.com/login",
+    "pricing": "Free"
+  },
+  {
+    "name": "Android Pit",
+    "score": 81,
+    "url": "https://www.androidpit.com/advertise",
+    "pricing": "Free"
+  },
+  {
+    "name": "App Advice",
+    "score": 81,
+    "url": "https://appadvice.com/page/contact-info-non-developers",
+    "pricing": "Free"
+  },
+  {
+    "name": "Plan",
+    "score": 81,
+    "url": "https://www.plan.tomtom.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "G2",
+    "score": 80,
+    "url": "https://www.g2.com/authorize",
+    "pricing": "Free"
+  },
+  {
+    "name": "Indie Hackers",
+    "score": 80,
+    "url": "https://www.indiehackers.com/contribute",
+    "pricing": "Free"
+  },
+  {
+    "name": "Lauging Squid",
+    "score": 80,
+    "url": "https://laughingsquid.com/laughing-squid-tips",
+    "pricing": "Free"
+  },
+  {
+    "name": "Read.Cv",
+    "score": 80,
+    "url": "https://read.cv",
+    "pricing": "Free"
+  },
+  {
+    "name": "Techdirt",
+    "score": 80,
+    "url": "https://www.techdirt.com/submitstory.php",
+    "pricing": "Free"
+  },
+  {
+    "name": "Your Story",
+    "score": 79,
+    "url": "https://accounts.yourstory.com/users/sign_in",
+    "pricing": "Free"
+  },
+  {
+    "name": "ActiveSearchResults",
+    "score": 78,
+    "url": "https://www.activesearchresults.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "DEV",
+    "score": 78,
+    "url": "http://dev.to",
+    "pricing": "Free"
+  },
+  {
+    "name": "Tech",
+    "score": 78,
+    "url": "https://tech.co/submit-news-tips",
+    "pricing": "Free"
+  },
+  {
+    "name": "Businessworld",
+    "score": 77,
+    "url": "https://www.businessworld.in",
+    "pricing": "Free"
+  },
+  {
+    "name": "SoftwareSuggest",
+    "score": 77,
+    "url": "https://www.softwaresuggest.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Biz",
+    "score": 76,
+    "url": "https://www.biz.prlog.org",
+    "pricing": "Free"
+  },
+  {
+    "name": "Inc42",
+    "score": 76,
+    "url": "https://inc42.com/startup-submission",
+    "pricing": "Free"
+  },
+  {
+    "name": "CrozDesk",
+    "score": 75,
+    "url": "http://vendor.softwareselect.com/user/signup",
+    "pricing": "Free"
+  },
+  {
+    "name": "Gust",
+    "score": 75,
+    "url": "https://gust.com/founders/start",
+    "pricing": "Free"
+  },
+  {
+    "name": "Justlanded",
+    "score": 75,
+    "url": "https://www.justlanded.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "SoftwareWorld",
+    "score": 74,
+    "url": "http://softwareworld.co/register",
+    "pricing": "Free"
+  },
+  {
+    "name": "There'S An AI For That",
+    "score": 74,
+    "url": "https://theresanaiforthat.com",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Alternative Me",
+    "score": 73,
+    "url": "https://alternative.me",
+    "pricing": "Free"
+  },
+  {
+    "name": "BetaList",
+    "score": 73,
+    "url": "http://betalist.com/submissions/new",
+    "pricing": "Free"
+  },
+  {
+    "name": "E27",
+    "score": 73,
+    "url": "https://e27.co/startups",
+    "pricing": "Free"
+  },
+  {
+    "name": "SaaSworthy",
+    "score": 73,
+    "url": "http://saasworthy.com/offerings",
+    "pricing": "Free"
+  },
+  {
+    "name": "Capterra",
+    "score": 72,
+    "url": "http://capterra.com/vendors",
+    "pricing": "Free"
+  },
+  {
+    "name": "CrowdReviews",
+    "score": 71,
+    "url": "https://www.crowdreviews.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "SaaSHub",
+    "score": 71,
+    "url": "http://saashub.com/submit",
+    "pricing": "Free"
+  },
+  {
+    "name": "SiteJabber",
+    "score": 71,
+    "url": "http://sitejabber.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "FinancesOnline",
+    "score": 70,
+    "url": "http://financesonline.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Software Advice",
+    "score": 70,
+    "url": "https://www.softwareadvice.com/vendors",
+    "pricing": "Free"
+  },
+  {
+    "name": "SpringWise",
+    "score": 70,
+    "url": "https://www.springwise.com/tipus",
+    "pricing": "Free"
+  },
+  {
+    "name": "Appstorm",
+    "score": 69,
+    "url": "https://windows.appstorm.net/weekly-sponsorship",
+    "pricing": "Free"
+  },
+  {
+    "name": "American Inno",
+    "score": 68,
+    "url": "http://americaninno.com/post-a-startup",
+    "pricing": "Free"
+  },
+  {
+    "name": "Yellowpages",
+    "score": 68,
+    "url": "https://www.yellowpages.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Appcrawlr",
+    "score": 67,
+    "url": "https://appcrawlr.com/ios/submit-an-app",
+    "pricing": "Free"
+  },
+  {
+    "name": "Dang",
+    "score": 67,
+    "url": "http://dang.ai/submit",
+    "pricing": "Free"
+  },
+  {
+    "name": "Listly",
+    "score": 67,
+    "url": "https://list.ly/?trigger=signin",
+    "pricing": "Free"
+  },
+  {
+    "name": "PeerSpot",
+    "score": 67,
+    "url": "https://www.peerspot.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Startup Stash",
+    "score": 67,
+    "url": "http://startupstash.com/add-listing",
+    "pricing": "Free"
+  },
+  {
+    "name": "Thetoptens",
+    "score": 67,
+    "url": "https://www.thetoptens.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "AllTopStartups",
+    "score": 65,
+    "url": "https://alltopstartups.com/submit-startup",
+    "pricing": "Free"
+  },
+  {
+    "name": "Betakit",
+    "score": 65,
+    "url": "https://betakit.com/submit",
+    "pricing": "Free"
+  },
+  {
+    "name": "Startup Grind",
+    "score": 65,
+    "url": "http://about.startupgrind.com/membership",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Steve Blank'S Startup Tools",
+    "score": 65,
+    "url": "https://steveblank.com/tools-and-blogs-for-entrepreneurs",
+    "pricing": "Free"
+  },
+  {
+    "name": "Vator",
+    "score": 65,
+    "url": "https://vator.tv/join",
+    "pricing": "Free"
+  },
+  {
+    "name": "Appolicious",
+    "score": 64,
+    "url": "https://appolicious.com/review-request",
+    "pricing": "Free"
+  },
+  {
+    "name": "Clutch",
+    "score": 64,
+    "url": "http://clutch.co/review",
+    "pricing": "Free"
+  },
+  {
+    "name": "Dazeinfo",
+    "score": 64,
+    "url": "https://dazeinfo.com/submit-your-startup",
+    "pricing": "Free"
+  },
+  {
+    "name": "EzWebDirectory",
+    "score": 64,
+    "url": "http://ezwebdirectory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "GetApp (Formerly App Appeal)",
+    "score": 64,
+    "url": "https://www.getapp.com/join",
+    "pricing": "Free"
+  },
+  {
+    "name": "Pressfarm",
+    "score": 64,
+    "url": "http://press.farm",
+    "pricing": "Paid"
+  },
+  {
+    "name": "SoMuch",
+    "score": 64,
+    "url": "https://www.somuch.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Storeboard",
+    "score": 64,
+    "url": "https://www.storeboard.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "SWD",
+    "score": 64,
+    "url": "http://submissionwebdirectory.com/submit.php",
+    "pricing": "Free"
+  },
+  {
+    "name": "Techjockey",
+    "score": 64,
+    "url": "https://www.techjockey.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Blogarama",
+    "score": 63,
+    "url": "https://www.blogarama.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Escortlinkdirectory",
+    "score": 63,
+    "url": "https://www.escortlinkdirectory.info",
+    "pricing": "Free"
+  },
+  {
+    "name": "Ourdirectory",
+    "score": 63,
+    "url": "https://www.ourdirectory.info",
+    "pricing": "Free"
+  },
+  {
+    "name": "Reviewcentre",
+    "score": 63,
+    "url": "https://www.reviewcentre.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Bebee",
+    "score": 62,
+    "url": "https://www.bebee.com/join",
+    "pricing": "Free"
+  },
+  {
+    "name": "BlinkList",
+    "score": 62,
+    "url": "http://blinklist.com/submit-your-app",
+    "pricing": "Free"
+  },
+  {
+    "name": "Directoryempire",
+    "score": 62,
+    "url": "https://www.directoryempire.info",
+    "pricing": "Free"
+  },
+  {
+    "name": "Future Tools",
+    "score": 62,
+    "url": "http://futuretools.io/submit-a-tool",
+    "pricing": "Free"
+  },
+  {
+    "name": "Growthhackers",
+    "score": 62,
+    "url": "https://growthhackers.com/articles/new",
+    "pricing": "Free"
+  },
+  {
+    "name": "HARO (Help A Reporter Out)",
+    "score": 62,
+    "url": "https://www.helpareporter.com/sources",
+    "pricing": "Free"
+  },
+  {
+    "name": "Jaipur",
+    "score": 62,
+    "url": "https://www.jaipur.futbollinker.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Arctic Startup",
+    "score": 61,
+    "url": "https://arcticstartup.typeform.com/to/OMRzH0",
+    "pricing": "Free"
+  },
+  {
+    "name": "Webrazzi",
+    "score": 61,
+    "url": "http://en.webrazzi.com/contact",
+    "pricing": "Free"
+  },
+  {
+    "name": "KillerStartups",
+    "score": 60,
+    "url": "http://www.killerstartups.com/submit-startup",
+    "pricing": "Free"
+  },
+  {
+    "name": "Tabscape",
+    "score": 60,
+    "url": "https://www.tapscape.com/submit-app-review",
+    "pricing": "Free"
+  },
+  {
+    "name": "Webrazzi",
+    "score": 60,
+    "url": "http://webrazzi.com/en/startup-form",
+    "pricing": "Free"
+  },
+  {
+    "name": "YouNoodle",
+    "score": 60,
+    "url": "https://platform.younoodle.com/account/register",
+    "pricing": "Free"
+  },
+  {
+    "name": "Alley Watch",
+    "score": 59,
+    "url": "https://www.alleywatch.com/tell-us-about-your-startup",
+    "pricing": "Free"
+  },
+  {
+    "name": "AppSumo",
+    "score": 59,
+    "url": "https://sell.appsumo.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Directorycritic",
+    "score": 59,
+    "url": "https://www.directorycritic.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "I Am Wire",
+    "score": 59,
+    "url": "http://www.iamwire.com/submit-guest-post",
+    "pricing": "Free"
+  },
+  {
+    "name": "Next Big What",
+    "score": 59,
+    "url": "http://nextbigwhat.com/submit-your-startup",
+    "pricing": "Free"
+  },
+  {
+    "name": "Tkseo",
+    "score": 59,
+    "url": "https://www.tkseo.net",
+    "pricing": "Free"
+  },
+  {
+    "name": "AppPicker",
+    "score": 58,
+    "url": "http://www.apppicker.com/users/registerdev?",
+    "pricing": "Free"
+  },
+  {
+    "name": "Control",
+    "score": 58,
+    "url": "https://www.control.freefind.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Jasminedirectory",
+    "score": 58,
+    "url": "https://www.jasminedirectory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Lacartes",
+    "score": 58,
+    "url": "https://www.lacartes.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Thehoth",
+    "score": 58,
+    "url": "https://www.thehoth.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Trustradius",
+    "score": 58,
+    "url": "http://trustradius.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Tupalo",
+    "score": 58,
+    "url": "https://www.tupalo.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "ISource",
+    "score": 57,
+    "url": "http://isource.com/about/contact-us",
+    "pricing": "Free"
+  },
+  {
+    "name": "Know Techie",
+    "score": 57,
+    "url": "https://knowtechie.com/contact",
+    "pricing": "Free"
+  },
+  {
+    "name": "Neobacklinks",
+    "score": 57,
+    "url": "https://www.neobacklinks.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Postcapes",
+    "score": 57,
+    "url": "https://www.postscapes.com/get-listed",
+    "pricing": "Free"
+  },
+  {
+    "name": "Releasewire",
+    "score": 57,
+    "url": "https://www.releasewire.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Small Biz Technology",
+    "score": 57,
+    "url": "https://www.smallbiztechnology.com/advertise/#.XKePapgzZPY",
+    "pricing": "Free"
+  },
+  {
+    "name": "Trepup",
+    "score": 57,
+    "url": "https://www.trepup.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "App Safari",
+    "score": 56,
+    "url": "http://www.appsafari.com/submit",
+    "pricing": "Free"
+  },
+  {
+    "name": "Bizsugar",
+    "score": 56,
+    "url": "https://www.bizsugar.com/mastermind",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Designer News",
+    "score": 56,
+    "url": "https://www.designernews.co/submit",
+    "pricing": "Free"
+  },
+  {
+    "name": "Dev Hunt",
+    "score": 56,
+    "url": "http://devhunt.org/login",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Ebusinesspages",
+    "score": 56,
+    "url": "https://www.ebusinesspages.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Event Manager Blog",
+    "score": 56,
+    "url": "http://www.eventmanagerblog.com/event-startup-submission",
+    "pricing": "Free"
+  },
+  {
+    "name": "Exportersindia",
+    "score": 56,
+    "url": "https://www.exportersindia.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Prsync",
+    "score": 56,
+    "url": "https://www.prsync.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "SaaS AI Tools",
+    "score": 56,
+    "url": "http://saasaitools.com/join",
+    "pricing": "Free"
+  },
+  {
+    "name": "TechDirectory",
+    "score": 56,
+    "url": "http://techdirectory.io/get-listed",
+    "pricing": "Free"
+  },
+  {
+    "name": "Uplabs",
+    "score": 56,
+    "url": "https://www.uplabs.com/submit",
+    "pricing": "Free"
+  },
+  {
+    "name": "EU Startups",
+    "score": 55,
+    "url": "https://www.eu-startups.com/directory/?wpbdp_view=submit_listing",
+    "pricing": "Free"
+  },
+  {
+    "name": "Indiacom",
+    "score": 55,
+    "url": "https://www.indiacom.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Startupxplore",
+    "score": 55,
+    "url": "https://startupxplore.com/startups/index",
+    "pricing": "Free"
+  },
+  {
+    "name": "Enrollbusiness",
+    "score": 54,
+    "url": "https://www.enrollbusiness.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "FiveTaco",
+    "score": 54,
+    "url": "http://fivetaco.com/submit",
+    "pricing": "Free"
+  },
+  {
+    "name": "IM Face Plate",
+    "score": 54,
+    "url": "http://www.imfaceplate.com/create",
+    "pricing": "Free"
+  },
+  {
+    "name": "Stack Share",
+    "score": 54,
+    "url": "https://stackshare.io/create-stack/new-company",
+    "pricing": "Free"
+  },
+  {
+    "name": "Betabound",
+    "score": 53,
+    "url": "https://www.betabound.com/announce",
+    "pricing": "Free"
+  },
+  {
+    "name": "Dirjournal",
+    "score": 53,
+    "url": "https://www.dirjournal.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Doabooks",
+    "score": 53,
+    "url": "https://www.doabooks.org",
+    "pricing": "Free"
+  },
+  {
+    "name": "Fintech News",
+    "score": 53,
+    "url": "http://fintechnews.sg/submit-your-fintech-startup",
+    "pricing": "Free"
+  },
+  {
+    "name": "Index By TNW",
+    "score": 53,
+    "url": "https://index.co/register?redirect_to=startup",
+    "pricing": "Free"
+  },
+  {
+    "name": "State Of The Dapps",
+    "score": 53,
+    "url": "https://www.stateofthedapps.com/dapps/submit/new",
+    "pricing": "Free"
+  },
+  {
+    "name": "Submitexpress",
+    "score": 53,
+    "url": "https://www.submitexpress.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "40billion",
+    "score": 52,
+    "url": "https://www.40billion.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "AppAgg",
+    "score": 52,
+    "url": "http://appagg.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Changelog",
+    "score": 52,
+    "url": "http://changelog.com/sponsor/pricing",
+    "pricing": "Free"
+  },
+  {
+    "name": "NoCodeDevs",
+    "score": 52,
+    "url": "https://www.nocodedevs.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Serchen",
+    "score": 52,
+    "url": "http://serchen.com/get-listed",
+    "pricing": "Paid"
+  },
+  {
+    "name": "StartUp Base",
+    "score": 52,
+    "url": "http://startupbase.io/submit",
+    "pricing": "Free"
+  },
+  {
+    "name": "StartUs",
+    "score": 52,
+    "url": "https://www.startus.cc/user/register",
+    "pricing": "Free"
+  },
+  {
+    "name": "Tech Bliss Online",
+    "score": 52,
+    "url": "http://techblissonline.com/submit-product",
+    "pricing": "Free"
+  },
+  {
+    "name": "Entireweb",
+    "score": 51,
+    "url": "https://www.entireweb.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Salespider",
+    "score": 51,
+    "url": "https://www.salespider.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Startup Ranking",
+    "score": 51,
+    "url": "https://www.startupranking.com/startup/register",
+    "pricing": "Free"
+  },
+  {
+    "name": "Venture Beat Profiles",
+    "score": 51,
+    "url": "https://www.vbprofiles.com/signup",
+    "pricing": "Free"
+  },
+  {
+    "name": "Globalcatalog",
+    "score": 50,
+    "url": "https://www.globalcatalog.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Startup Donut",
+    "score": 50,
+    "url": "https://www.startupdonut.co.uk/contact-form",
+    "pricing": "Free"
+  },
+  {
+    "name": "Uneed",
+    "score": 50,
+    "url": "http://uneed.best/submit-a-tool",
+    "pricing": "Free"
+  },
+  {
+    "name": "VC4A",
+    "score": 50,
+    "url": "https://vc4a.com/signup/?",
+    "pricing": "Free"
+  },
+  {
+    "name": "Young Upstarts",
+    "score": 50,
+    "url": "http://www.youngupstarts.com/contact",
+    "pricing": "Free"
+  },
+  {
+    "name": "Altaindia",
+    "score": 49,
+    "url": "https://www.altaindia.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Snapmunk",
+    "score": 49,
+    "url": "http://startups.snapmunk.com/join",
+    "pricing": "Free"
+  },
+  {
+    "name": "Sociable Blog",
+    "score": 49,
+    "url": "http://www.sociableblog.com/submit-news",
+    "pricing": "Free"
+  },
+  {
+    "name": "Startup Stash",
+    "score": 49,
+    "url": "https://startupstash.typeform.com/to/CJ8kSU",
+    "pricing": "Free"
+  },
+  {
+    "name": "StartupBlink",
+    "score": 49,
+    "url": "https://www.startupblink.com/register",
+    "pricing": "Free"
+  },
+  {
+    "name": "Webwiki",
+    "score": 49,
+    "url": "https://www.webwiki.com/info/add-website.html",
+    "pricing": "Free"
+  },
+  {
+    "name": "Yelloyello",
+    "score": 49,
+    "url": "https://www.yelloyello.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Amfibi",
+    "score": 48,
+    "url": "http://amfibi.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Freewebsubmission",
+    "score": 48,
+    "url": "https://freewebsubmission.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Interesting-Dir",
+    "score": 48,
+    "url": "https://www.interesting-dir.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Jcount",
+    "score": 48,
+    "url": "https://www.jcount.com/submit-your-startup",
+    "pricing": "Free"
+  },
+  {
+    "name": "Sidebario",
+    "score": 48,
+    "url": "https://sidebar.io/ (click submit icon on the right corner)",
+    "pricing": "Free"
+  },
+  {
+    "name": "Startup Beat",
+    "score": 48,
+    "url": "https://startupbeat.com/startup-beat-featured-startup-pitch-guidelines",
+    "pricing": "Free"
+  },
+  {
+    "name": "Supportblackowned",
+    "score": 48,
+    "url": "https://www.supportblackowned.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Web Design Inspiration",
+    "score": 48,
+    "url": "https://www.webdesign-inspiration.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Clickindia",
+    "score": 47,
+    "url": "https://www.clickindia.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Featuredcustomers",
+    "score": 47,
+    "url": "http://featuredcustomers.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Place123",
+    "score": 47,
+    "url": "https://www.place123.net",
+    "pricing": "Free"
+  },
+  {
+    "name": "Travelful",
+    "score": 47,
+    "url": "https://www.travelful.net",
+    "pricing": "Free"
+  },
+  {
+    "name": "Agreatertown",
+    "score": 46,
+    "url": "https://www.agreatertown.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Feedough",
+    "score": 46,
+    "url": "http://feedough.com/submit-your-startup",
+    "pricing": "Free"
+  },
+  {
+    "name": "Target-Directory",
+    "score": 46,
+    "url": "https://www.target-directory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "The Startup Pitch",
+    "score": 46,
+    "url": "https://thestartuppitch.com/post-a-pitch",
+    "pricing": "Free"
+  },
+  {
+    "name": "Viesearch",
+    "score": 46,
+    "url": "https://www.viesearch.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Zumvu",
+    "score": 46,
+    "url": "http://zumvu.com/make-profile.zvx",
+    "pricing": "Free"
+  },
+  {
+    "name": "2FindLocal",
+    "score": 45,
+    "url": "https://www.2findlocal.com/Modules/Biz/bizPhoneLookup.php",
+    "pricing": "Free"
+  },
+  {
+    "name": "Ben'S Bites News",
+    "score": 45,
+    "url": "http://news.bensbites.co/submit",
+    "pricing": "Free"
+  },
+  {
+    "name": "Crozdesk Ltd",
+    "score": 45,
+    "url": "http://crozdesk.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Insidr",
+    "score": 45,
+    "url": "https://www.insidr.ai/submit-tools",
+    "pricing": "Free"
+  },
+  {
+    "name": "Linkcentre",
+    "score": 45,
+    "url": "https://www.linkcentre.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Maqtoob",
+    "score": 45,
+    "url": "https://maqtoob.com/submit-a-tool",
+    "pricing": "Free"
+  },
+  {
+    "name": "Siftery",
+    "score": 45,
+    "url": "https://siftery.com/users/login?",
+    "pricing": "Free"
+  },
+  {
+    "name": "Starter Story",
+    "score": 45,
+    "url": "http://starterstory.com",
+    "pricing": "Paid"
+  },
+  {
+    "name": "The Iphone App Review",
+    "score": 45,
+    "url": "http://www.theiphoneappreview.com/submit-your-app-2",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Toolify",
+    "score": 45,
+    "url": "https://toolify.ai",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Whodoyou",
+    "score": 45,
+    "url": "https://www.whodoyou.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Workspaces",
+    "score": 45,
+    "url": "http://workspaces.xyz/submit-a-workspace-workspaces",
+    "pricing": "Free"
+  },
+  {
+    "name": "Betapage",
+    "score": 44,
+    "url": "https://betapage.co/submit-startup",
+    "pricing": "Free"
+  },
+  {
+    "name": "Exactseek",
+    "score": 44,
+    "url": "http://exactseek.com/add.html",
+    "pricing": "Free"
+  },
+  {
+    "name": "Growth Supply",
+    "score": 44,
+    "url": "https://growthsupply.com/free",
+    "pricing": "Free"
+  },
+  {
+    "name": "Mars AI Directory",
+    "score": 44,
+    "url": "http://marsx.dev/ai-startups",
+    "pricing": "Free"
+  },
+  {
+    "name": "MicroLaunch",
+    "score": 44,
+    "url": "http://tally.so/r/wMzP8X",
+    "pricing": "Free"
+  },
+  {
+    "name": "New-Startups",
+    "score": 44,
+    "url": "https://www.new-startups.com/promote-your-startup-company",
+    "pricing": "Free"
+  },
+  {
+    "name": "Tech Faster",
+    "score": 44,
+    "url": "http://techfaster.com/submit-your-company",
+    "pricing": "Paid"
+  },
+  {
+    "name": "The Startup Mag",
+    "score": 44,
+    "url": "http://thestartupmag.com/article-contribution",
+    "pricing": "Free"
+  },
+  {
+    "name": "VentureRadar",
+    "score": 44,
+    "url": "http://ventureradar.com/add_company",
+    "pricing": "Free"
+  },
+  {
+    "name": "Asklaila",
+    "score": 43,
+    "url": "https://www.asklaila.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Avivadirectory",
+    "score": 43,
+    "url": "https://www.avivadirectory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Bloggernity",
+    "score": 43,
+    "url": "https://www.bloggernity.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Business Software",
+    "score": 43,
+    "url": "http://business-software.com/add-your-product",
+    "pricing": "Free"
+  },
+  {
+    "name": "Golocal247",
+    "score": 43,
+    "url": "https://www.golocal247.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Iglobal",
+    "score": 43,
+    "url": "https://www.iglobal.co",
+    "pricing": "Free"
+  },
+  {
+    "name": "Launching Next",
+    "score": 43,
+    "url": "https://www.launchingnext.com/submit",
+    "pricing": "Free"
+  },
+  {
+    "name": "Linus Ekenstam Super New",
+    "score": 43,
+    "url": "https://linusekenstam.typeform.com/super-new",
+    "pricing": "Free"
+  },
+  {
+    "name": "Ontoplist",
+    "score": 43,
+    "url": "https://www.ontoplist.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Startup Lift",
+    "score": 43,
+    "url": "http://startuplift.com/submit-your-startup",
+    "pricing": "Free"
+  },
+  {
+    "name": "Startup World",
+    "score": 43,
+    "url": "https://www.startupworld.com/contact-us",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Superbcrew",
+    "score": 43,
+    "url": "https://www.superbcrew.com/join-us",
+    "pricing": "Free"
+  },
+  {
+    "name": "TechPluto",
+    "score": 43,
+    "url": "https://www.techpluto.com/submit-a-startup",
+    "pricing": "Free"
+  },
+  {
+    "name": "Alive-Directory",
+    "score": 42,
+    "url": "https://www.alive-directory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Businesslistingplus",
+    "score": 42,
+    "url": "https://businesslistingplus.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Discoverourtown",
+    "score": 42,
+    "url": "https://www.discoverourtown.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Iphone Apps Finder",
+    "score": 42,
+    "url": "http://www.iphoneappsfinder.com/contact-me",
+    "pricing": "Free"
+  },
+  {
+    "name": "Magnitt",
+    "score": 42,
+    "url": "http://magnitt.com/startups",
+    "pricing": "Free"
+  },
+  {
+    "name": "NoCodeList",
+    "score": 42,
+    "url": "http://nocodelist.co/submit",
+    "pricing": "Free"
+  },
+  {
+    "name": "Pipex",
+    "score": 42,
+    "url": "https://www.pipex.ai",
+    "pricing": "Free"
+  },
+  {
+    "name": "Startup Guys",
+    "score": 42,
+    "url": "https://www.startupguys.net/submit-startup",
+    "pricing": "Free"
+  },
+  {
+    "name": "Startups",
+    "score": 42,
+    "url": "https://www.startups.com/community",
+    "pricing": "Free"
+  },
+  {
+    "name": "Startups Anonymous",
+    "score": 42,
+    "url": "https://startupsanonymous.com/stories/create",
+    "pricing": "Free"
+  },
+  {
+    "name": "The Tech Panda",
+    "score": 42,
+    "url": "http://thetechpanda.com/submit-a-startup",
+    "pricing": "Free"
+  },
+  {
+    "name": "Uscity",
+    "score": 42,
+    "url": "https://www.uscity.net",
+    "pricing": "Free"
+  },
+  {
+    "name": "Apps 400",
+    "score": 41,
+    "url": "http://apps400.com/submit-your-application-for-review",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Cgmimm",
+    "score": 41,
+    "url": "https://www.cgmimm.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Forlocations",
+    "score": 41,
+    "url": "https://www.forlocations.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Go4worldbusiness",
+    "score": 41,
+    "url": "https://go4worldbusiness.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Jayde",
+    "score": 41,
+    "url": "https://www.jayde.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Land-Book",
+    "score": 41,
+    "url": "https://land-book.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Stacklist",
+    "score": 41,
+    "url": "https://stacklist.typeform.com/to/k9EsOM",
+    "pricing": "Free"
+  },
+  {
+    "name": "AI Infinity",
+    "score": 40,
+    "url": "https://aiinfinity-meetpatel.notion.site/AI-Infinity-AI-Tools-Directory-0da673c487124ea2b6f8ebe59b75a231",
+    "pricing": "Free"
+  },
+  {
+    "name": "Bubble",
+    "score": 40,
+    "url": "https://www.bubble.ro",
+    "pricing": "Free"
+  },
+  {
+    "name": "Fyple",
+    "score": 40,
+    "url": "https://www.fyple.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Localpages",
+    "score": 40,
+    "url": "https://www.localpages.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Opendi",
+    "score": 40,
+    "url": "https://www.opendi.us",
+    "pricing": "Free"
+  },
+  {
+    "name": "SAASgenius",
+    "score": 40,
+    "url": "http://www.saasgenius.com/user",
+    "pricing": "Free"
+  },
+  {
+    "name": "Startup Dope",
+    "score": 40,
+    "url": "http://startupdope.com/submit-news",
+    "pricing": "Free"
+  },
+  {
+    "name": "State Of Tech",
+    "score": 40,
+    "url": "https://stateoftech.net/submit-an-app-for-review",
+    "pricing": "Free"
+  },
+  {
+    "name": "Tool Piot",
+    "score": 40,
+    "url": "https://www.toolpilot.ai",
+    "pricing": "Free"
+  },
+  {
+    "name": "Tupalo",
+    "score": 40,
+    "url": "https://www.tupalo.net",
+    "pricing": "Free"
+  },
+  {
+    "name": "Cybrhome",
+    "score": 39,
+    "url": "https://www.cybrhome.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Fullhyderabad",
+    "score": 39,
+    "url": "https://www.fullhyderabad.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Sideprojectors",
+    "score": 39,
+    "url": "https://www.sideprojectors.com/project/submit",
+    "pricing": "Free"
+  },
+  {
+    "name": "Startacus",
+    "score": 39,
+    "url": "https://startacus.net/culture/submit-your-startup#.XLdJHugzZPY",
+    "pricing": "Free"
+  },
+  {
+    "name": "Startup Buzz",
+    "score": 39,
+    "url": "https://www.startup-buzz.com/submit-startup",
+    "pricing": "Free"
+  },
+  {
+    "name": "Abc-Directory",
+    "score": 38,
+    "url": "https://www.abc-directory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Crazy About Startups",
+    "score": 38,
+    "url": "https://www.crazyaboutstartups.com/share-your-startup",
+    "pricing": "Free"
+  },
+  {
+    "name": "Guestbook-Free",
+    "score": 38,
+    "url": "https://www.guestbook-free.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Inn Mind",
+    "score": 38,
+    "url": "http://app.innmind.com/startups",
+    "pricing": "Free"
+  },
+  {
+    "name": "Activdirectory",
+    "score": 37,
+    "url": "https://www.activdirectory.net",
+    "pricing": "Free"
+  },
+  {
+    "name": "AI Tools Directory",
+    "score": 37,
+    "url": "https://aitoolsdirectory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Fundoodata",
+    "score": 37,
+    "url": "https://www.fundoodata.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Joeant",
+    "score": 37,
+    "url": "https://www.joeant.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Startup Lister",
+    "score": 37,
+    "url": "http://startuplister.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Uksmallbusinessdirectory",
+    "score": 37,
+    "url": "https://uksmallbusinessdirectory.co.uk",
+    "pricing": "Free"
+  },
+  {
+    "name": "Acedirectory",
+    "score": 36,
+    "url": "https://www.acedirectory.org",
+    "pricing": "Free"
+  },
+  {
+    "name": "Akama",
+    "score": 36,
+    "url": "https://www.akama.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Kugli",
+    "score": 36,
+    "url": "https://www.kugli.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Romanian Startups",
+    "score": 36,
+    "url": "http://romanianstartups.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Websquash",
+    "score": 36,
+    "url": "https://www.websquash.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "01webdirectory",
+    "score": 35,
+    "url": "https://www.01webdirectory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Aixploria",
+    "score": 35,
+    "url": "https://www.aixploria.com/en/add-ai",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Familyfriendlysites",
+    "score": 35,
+    "url": "https://familyfriendlysites.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Free-Weblink",
+    "score": 35,
+    "url": "https://www.free-weblink.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Freeadstime",
+    "score": 35,
+    "url": "https://www.freeadstime.org",
+    "pricing": "Free"
+  },
+  {
+    "name": "Indianyellowpages",
+    "score": 35,
+    "url": "https://indianyellowpages.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Localstack",
+    "score": 35,
+    "url": "https://www.localstack.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Startup88",
+    "score": 35,
+    "url": "https://startup88.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Admyurl",
+    "score": 34,
+    "url": "https://www.admyurl.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Appy Smarts",
+    "score": 34,
+    "url": "http://appysmarts.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Bloghints",
+    "score": 34,
+    "url": "https://www.bloghints.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Buyersindex",
+    "score": 34,
+    "url": "https://www.buyersindex.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Grotal",
+    "score": 34,
+    "url": "https://www.grotal.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Makerlog",
+    "score": 34,
+    "url": "http://getmakerlog.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Paggu",
+    "score": 34,
+    "url": "http://paggu.com/submit-your-startup",
+    "pricing": "Free"
+  },
+  {
+    "name": "Surfindia",
+    "score": 34,
+    "url": "https://www.surfindia.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Webworldindex",
+    "score": 34,
+    "url": "https://www.webworldindex.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Yalwa",
+    "score": 34,
+    "url": "https://www.yalwa.in",
+    "pricing": "Free"
+  },
+  {
+    "name": "Cipinet",
+    "score": 33,
+    "url": "http://cipinet.com/suggest.php?",
+    "pricing": "Free"
+  },
+  {
+    "name": "Domainnamesseo",
+    "score": 33,
+    "url": "https://www.domainnamesseo.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Project Hatch",
+    "score": 33,
+    "url": "http://projecthatch.co/your-story",
+    "pricing": "Free"
+  },
+  {
+    "name": "Startup Collections",
+    "score": 33,
+    "url": "http://startupcollections.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Startup Success Stories",
+    "score": 33,
+    "url": "https://startupsuccessstories.in/join-our-communities",
+    "pricing": "Free"
+  },
+  {
+    "name": "Techendo",
+    "score": 33,
+    "url": "http://techendo.com/beta",
+    "pricing": "Free"
+  },
+  {
+    "name": "Victrays",
+    "score": 33,
+    "url": "https://victrays.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "10directory",
+    "score": 32,
+    "url": "https://www.10directory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Directoryvault",
+    "score": 32,
+    "url": "https://www.directoryvault.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Indiabook",
+    "score": 32,
+    "url": "https://www.indiabook.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Prolinkdirectory",
+    "score": 32,
+    "url": "https://www.prolinkdirectory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "SAAS Invaders",
+    "score": 32,
+    "url": "https://www.saasinvaders.com/login",
+    "pricing": "Free"
+  },
+  {
+    "name": "9sites",
+    "score": 31,
+    "url": "http://9sites.net/addurl.php",
+    "pricing": "Free"
+  },
+  {
+    "name": "Alistdirectory",
+    "score": 31,
+    "url": "https://www.alistdirectory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "All Startups Info",
+    "score": 31,
+    "url": "http://allstartups.info/Startups/Submit",
+    "pricing": "Free"
+  },
+  {
+    "name": "Automaticbacklinks",
+    "score": 31,
+    "url": "https://automaticbacklinks.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Directoryworld",
+    "score": 31,
+    "url": "https://www.directoryworld.net",
+    "pricing": "Free"
+  },
+  {
+    "name": "Domico",
+    "score": 31,
+    "url": "https://www.domico.at",
+    "pricing": "Free"
+  },
+  {
+    "name": "Eindiabusiness",
+    "score": 31,
+    "url": "https://www.eindiabusiness.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Infotiger",
+    "score": 31,
+    "url": "https://www.infotiger.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Mastermoz",
+    "score": 31,
+    "url": "https://www.mastermoz.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "One-Sublime-Directory",
+    "score": 31,
+    "url": "https://www.one-sublime-directory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Pegasusdirectory",
+    "score": 31,
+    "url": "https://www.pegasusdirectory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Startup Freak",
+    "score": 31,
+    "url": "http://www.startupfreak.com/add-new-company",
+    "pricing": "Free"
+  },
+  {
+    "name": "Toolio",
+    "score": 31,
+    "url": "https://www.toolio.ai",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Upsdirectory",
+    "score": 31,
+    "url": "https://www.upsdirectory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "1websdirectory",
+    "score": 30,
+    "url": "https://www.1websdirectory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Abstractdirectory",
+    "score": 30,
+    "url": "https://www.abstractdirectory.net",
+    "pricing": "Free"
+  },
+  {
+    "name": "All Things AI",
+    "score": 30,
+    "url": "https://allthingsai.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Ask-Directory",
+    "score": 30,
+    "url": "https://www.ask-directory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Betafy",
+    "score": 30,
+    "url": "http://betafy.co/easysignup/startup",
+    "pricing": "Free"
+  },
+  {
+    "name": "Blogdirs",
+    "score": 30,
+    "url": "https://www.blogdirs.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Directory6",
+    "score": 30,
+    "url": "https://www.directory6.org",
+    "pricing": "Free"
+  },
+  {
+    "name": "Get Worm",
+    "score": 30,
+    "url": "https://getworm.com/submit-startup",
+    "pricing": "Free"
+  },
+  {
+    "name": "Highrankdirectory",
+    "score": 30,
+    "url": "https://www.highrankdirectory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Indiacatalog",
+    "score": 30,
+    "url": "https://www.indiacatalog.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Justdirectory",
+    "score": 30,
+    "url": "https://www.justdirectory.org",
+    "pricing": "Free"
+  },
+  {
+    "name": "Linkorado",
+    "score": 30,
+    "url": "https://www.linkorado.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Linksgiving",
+    "score": 30,
+    "url": "https://www.linksgiving.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Marketinginternetdirectory",
+    "score": 30,
+    "url": "https://marketinginternetdirectory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Poordirectory",
+    "score": 30,
+    "url": "https://www.poordirectory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Robin Good'S T5",
+    "score": 30,
+    "url": "https://tools.robingood.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Startups Watch",
+    "score": 30,
+    "url": "http://startups.watch/startups/new",
+    "pricing": "Free"
+  },
+  {
+    "name": "Thetechmap",
+    "score": 30,
+    "url": "http://thetechmap.com/Account/Login",
+    "pricing": "Free"
+  },
+  {
+    "name": "Aweblist",
+    "score": 29,
+    "url": "https://www.aweblist.org",
+    "pricing": "Free"
+  },
+  {
+    "name": "Backpagedir",
+    "score": 29,
+    "url": "https://www.backpagedir.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Being Guru",
+    "score": 29,
+    "url": "http://beingguru.com/submit-startup",
+    "pricing": "Free"
+  },
+  {
+    "name": "Businessseek",
+    "score": 29,
+    "url": "https://businessseek.biz",
+    "pricing": "Free"
+  },
+  {
+    "name": "Craigslistdir",
+    "score": 29,
+    "url": "https://www.craigslistdir.org",
+    "pricing": "Free"
+  },
+  {
+    "name": "Ellysdirectory",
+    "score": 29,
+    "url": "https://www.ellysdirectory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Facebook-List",
+    "score": 29,
+    "url": "https://www.facebook-list.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Hot To Buy SaaS",
+    "score": 29,
+    "url": "http://howtobuysaas.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Lemon-Directory",
+    "score": 29,
+    "url": "https://www.lemon-directory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Maharashtradirectory",
+    "score": 29,
+    "url": "https://maharashtradirectory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Sitepromotiondirectory",
+    "score": 29,
+    "url": "https://sitepromotiondirectory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Smart Money Match",
+    "score": 29,
+    "url": "http://smartmoneymatch.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Startup Success Stories",
+    "score": 29,
+    "url": "https://startupsuccessstories.com/submit-your-story",
+    "pricing": "Free"
+  },
+  {
+    "name": "Usalistingdirectory",
+    "score": 29,
+    "url": "https://usalistingdirectory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "WebAppRater",
+    "score": 29,
+    "url": "https://webapprater.com/submit-your-web-application-for-review-html",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Addirectory",
+    "score": 28,
+    "url": "https://www.addirectory.org",
+    "pricing": "Free"
+  },
+  {
+    "name": "BigStartups",
+    "score": 28,
+    "url": "https://bigstartups.co/overview/submit-startup",
+    "pricing": "Free"
+  },
+  {
+    "name": "Busybits",
+    "score": 28,
+    "url": "https://www.busybits.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Craigslistdirectory",
+    "score": 28,
+    "url": "https://www.craigslistdirectory.net",
+    "pricing": "Free"
+  },
+  {
+    "name": "Ecobluedirectory",
+    "score": 28,
+    "url": "https://www.ecobluedirectory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Hotelmalita",
+    "score": 28,
+    "url": "https://www.hotelmalita.it",
+    "pricing": "Free"
+  },
+  {
+    "name": "Jantareview",
+    "score": 28,
+    "url": "https://www.jantareview.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Localbiznetwork",
+    "score": 28,
+    "url": "https://www.localbiznetwork.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Netinsert",
+    "score": 28,
+    "url": "https://www.netinsert.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Quicklinks",
+    "score": 28,
+    "url": "https://www.quicklinks.net",
+    "pricing": "Free"
+  },
+  {
+    "name": "Routeandgo",
+    "score": 28,
+    "url": "https://www.routeandgo.net",
+    "pricing": "Free"
+  },
+  {
+    "name": "Sonicrun",
+    "score": 28,
+    "url": "https://www.sonicrun.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Startup Buffer",
+    "score": 28,
+    "url": "https://startupbuffer.com",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Thalesdirectory",
+    "score": 28,
+    "url": "https://www.thalesdirectory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Theseobacklink",
+    "score": 28,
+    "url": "https://www.theseobacklink.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Ukinternetdirectory",
+    "score": 28,
+    "url": "https://www.ukinternetdirectory.net",
+    "pricing": "Free"
+  },
+  {
+    "name": "Usawebsitesdirectory",
+    "score": 28,
+    "url": "https://www.usawebsitesdirectory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Worldweb-Directory",
+    "score": 28,
+    "url": "https://www.worldweb-directory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "10words",
+    "score": 27,
+    "url": "http://portal.10words.io/submissions/submit",
+    "pricing": "Free"
+  },
+  {
+    "name": "Ad",
+    "score": 27,
+    "url": "https://www.ad.ologames.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Addgoodsites",
+    "score": 27,
+    "url": "https://www.addgoodsites.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Bedirectory",
+    "score": 27,
+    "url": "https://www.bedirectory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Canadawebdir",
+    "score": 27,
+    "url": "https://www.canadawebdir.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Dialindia",
+    "score": 27,
+    "url": "https://www.dialindia.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Directory",
+    "score": 27,
+    "url": "https://www.directory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Directory",
+    "score": 27,
+    "url": "https://www.directory.coais.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Directory-Free",
+    "score": 27,
+    "url": "https://www.directory-free.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Exampledir",
+    "score": 27,
+    "url": "https://www.exampledir.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Findelio",
+    "score": 27,
+    "url": "https://www.findelio.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Gowwwlist",
+    "score": 27,
+    "url": "https://www.gowwwlist.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "IndieHackerStacks",
+    "score": 27,
+    "url": "http://indiehackerstacks.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Info-Listings",
+    "score": 27,
+    "url": "https://www.info-listings.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Onecooldir",
+    "score": 27,
+    "url": "https://www.onecooldir.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "OpenFuture",
+    "score": 27,
+    "url": "https://openfuture.ai/submit-tool",
+    "pricing": "Free"
+  },
+  {
+    "name": "Siteswebdirectory",
+    "score": 27,
+    "url": "https://www.siteswebdirectory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Startup Button",
+    "score": 27,
+    "url": "https://www.startupbutton.com/submit",
+    "pricing": "Free"
+  },
+  {
+    "name": "Startup Catchup",
+    "score": 27,
+    "url": "http://www.startupcatchup.com/submit-your-startup",
+    "pricing": "Free"
+  },
+  {
+    "name": "Startup Inspire",
+    "score": 27,
+    "url": "http://startupinspire.com/dashboard/startup/create",
+    "pricing": "Free"
+  },
+  {
+    "name": "Theseoking",
+    "score": 27,
+    "url": "https://www.theseoking.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Acewebdirectory",
+    "score": 26,
+    "url": "https://www.acewebdirectory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Afunnydir",
+    "score": 26,
+    "url": "https://www.afunnydir.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Amray",
+    "score": 26,
+    "url": "https://www.amray.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Bing-Directory",
+    "score": 26,
+    "url": "https://www.bing-directory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Britainbusinessdirectory",
+    "score": 26,
+    "url": "https://www.britainbusinessdirectory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Ezistreet",
+    "score": 26,
+    "url": "https://www.ezistreet.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Gainweb",
+    "score": 26,
+    "url": "https://www.gainweb.org",
+    "pricing": "Free"
+  },
+  {
+    "name": "Justlink",
+    "score": 26,
+    "url": "https://www.justlink.org",
+    "pricing": "Free"
+  },
+  {
+    "name": "Newwebdirectory",
+    "score": 26,
+    "url": "https://www.newwebdirectory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Reddit-Directory",
+    "score": 26,
+    "url": "https://www.reddit-directory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Skoobe",
+    "score": 26,
+    "url": "https://www.skoobe.biz",
+    "pricing": "Free"
+  },
+  {
+    "name": "StartupWizz",
+    "score": 26,
+    "url": "http://www.startupwizz.com/submit-a-startup",
+    "pricing": "Free"
+  },
+  {
+    "name": "247webdirectory",
+    "score": 25,
+    "url": "https://www.247webdirectory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "AI Valley",
+    "score": 25,
+    "url": "https://aivalley.ai",
+    "pricing": "Free"
+  },
+  {
+    "name": "Alpha Digits",
+    "score": 25,
+    "url": "http://alphadigits.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Businessfreedirectory",
+    "score": 25,
+    "url": "https://www.businessfreedirectory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Classifiedsfactor",
+    "score": 25,
+    "url": "https://www.classifiedsfactor.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Compara Software",
+    "score": 25,
+    "url": "http://comparasoftware.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Domaining",
+    "score": 25,
+    "url": "https://www.domaining.in",
+    "pricing": "Free"
+  },
+  {
+    "name": "Findermaster",
+    "score": 25,
+    "url": "https://www.findermaster.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Homedirectory",
+    "score": 25,
+    "url": "https://www.homedirectory.biz",
+    "pricing": "Free"
+  },
+  {
+    "name": "Hotvsnot",
+    "score": 25,
+    "url": "https://www.hotvsnot.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Jimyellowpages",
+    "score": 25,
+    "url": "https://www.jimyellowpages.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Promotebusinessdirectory",
+    "score": 25,
+    "url": "https://www.promotebusinessdirectory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Submitx",
+    "score": 25,
+    "url": "https://www.submitx.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "The Startup INC",
+    "score": 25,
+    "url": "https://www.thestartupinc.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Webguiding",
+    "score": 25,
+    "url": "https://www.webguiding.net",
+    "pricing": "Free"
+  },
+  {
+    "name": "Weboworld",
+    "score": 25,
+    "url": "https://www.weboworld.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Adbritedirectory",
+    "score": 24,
+    "url": "https://www.adbritedirectory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Allstatesusadirectory",
+    "score": 24,
+    "url": "https://www.allstatesusadirectory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Arcticdirectory",
+    "score": 24,
+    "url": "https://www.arcticdirectory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Bestbuydir",
+    "score": 24,
+    "url": "https://www.bestbuydir.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Directorybusinesssite",
+    "score": 24,
+    "url": "https://www.directorybusinesssite.org.siteindices.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Edom",
+    "score": 24,
+    "url": "https://www.edom.co",
+    "pricing": "Free"
+  },
+  {
+    "name": "Fivestarscenter",
+    "score": 24,
+    "url": "https://www.fivestarscenter.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Fruity-Directory",
+    "score": 24,
+    "url": "https://www.fruity-directory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "H1ad",
+    "score": 24,
+    "url": "https://www.h1ad.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Illumirate",
+    "score": 24,
+    "url": "https://www.illumirate.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Linkedin-Directory",
+    "score": 24,
+    "url": "https://www.linkedin-directory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Pakranks",
+    "score": 24,
+    "url": "https://www.pakranks.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Searchdomainhere",
+    "score": 24,
+    "url": "https://www.searchdomainhere.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Sevenseek",
+    "score": 24,
+    "url": "https://www.sevenseek.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Smartseolink",
+    "score": 24,
+    "url": "https://www.smartseolink.org",
+    "pricing": "Free"
+  },
+  {
+    "name": "Startup Tracker",
+    "score": 24,
+    "url": "https://startuptracker.io",
+    "pricing": "Free"
+  },
+  {
+    "name": "Taalk",
+    "score": 24,
+    "url": "http://taalk.com/submit-startup",
+    "pricing": "Free"
+  },
+  {
+    "name": "The Popular Apps",
+    "score": 24,
+    "url": "http://thepopularapps.com/submit-app",
+    "pricing": "Free"
+  },
+  {
+    "name": "Txtlinks",
+    "score": 24,
+    "url": "https://www.txtlinks.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "W3catalog",
+    "score": 24,
+    "url": "https://www.w3catalog.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Alive2directory",
+    "score": 23,
+    "url": "https://www.alive2directory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Aurora-Directory",
+    "score": 23,
+    "url": "https://www.aurora-directory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Blackandbluedirectory",
+    "score": 23,
+    "url": "https://www.blackandbluedirectory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Bluebook-Directory",
+    "score": 23,
+    "url": "https://www.bluebook-directory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Dizila",
+    "score": 23,
+    "url": "https://www.dizila.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Expansiondirectory",
+    "score": 23,
+    "url": "https://www.expansiondirectory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Huludirectory",
+    "score": 23,
+    "url": "https://www.huludirectory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Morefunz",
+    "score": 23,
+    "url": "https://www.morefunz.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Startup Founders",
+    "score": 23,
+    "url": "https://startupfounders.net/submit-startup",
+    "pricing": "Free"
+  },
+  {
+    "name": "Synergy-Directory",
+    "score": 23,
+    "url": "https://www.synergy-directory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Traveltourismdirectory",
+    "score": 23,
+    "url": "https://www.traveltourismdirectory.info",
+    "pricing": "Free"
+  },
+  {
+    "name": "Wallclassifieds",
+    "score": 23,
+    "url": "https://www.wallclassifieds.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Yookalo",
+    "score": 23,
+    "url": "https://www.yookalo.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Azure-Directory",
+    "score": 22,
+    "url": "https://www.azure-directory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Bizz-Directory",
+    "score": 22,
+    "url": "https://www.bizz-directory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Brownedgedirectory",
+    "score": 22,
+    "url": "https://www.brownedgedirectory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Dbsdirectory",
+    "score": 22,
+    "url": "https://www.dbsdirectory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Fashionlistings",
+    "score": 22,
+    "url": "https://www.fashionlistings.org",
+    "pricing": "Free"
+  },
+  {
+    "name": "Gmawebdirectory",
+    "score": 22,
+    "url": "https://www.gmawebdirectory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Greenydirectory",
+    "score": 22,
+    "url": "https://www.greenydirectory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Petsandanimals",
+    "score": 22,
+    "url": "https://www.petsandanimals.co.uk",
+    "pricing": "Free"
+  },
+  {
+    "name": "SideProjects",
+    "score": 22,
+    "url": "http://sideprojects.net",
+    "pricing": "Free"
+  },
+  {
+    "name": "Taurusdirectory",
+    "score": 22,
+    "url": "https://www.taurusdirectory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "The-Web-Directory",
+    "score": 22,
+    "url": "https://www.the-web-directory.co.uk",
+    "pricing": "Free"
+  },
+  {
+    "name": "Advertiseera",
+    "score": 21,
+    "url": "https://www.advertiseera.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Blackgreendirectory",
+    "score": 21,
+    "url": "https://www.blackgreendirectory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Deepbluedirectory",
+    "score": 21,
+    "url": "https://www.deepbluedirectory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Direct-Directory",
+    "score": 21,
+    "url": "https://www.direct-directory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Directoryfire",
+    "score": 21,
+    "url": "https://www.directoryfire.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Dirhello",
+    "score": 21,
+    "url": "https://www.dirhello.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Dracodirectory",
+    "score": 21,
+    "url": "https://www.dracodirectory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Freeprwebdirectory",
+    "score": 21,
+    "url": "https://www.freeprwebdirectory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Groovy-Directory",
+    "score": 21,
+    "url": "https://www.groovy-directory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Marketingwebdirectory",
+    "score": 21,
+    "url": "https://www.marketingwebdirectory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Urlchief",
+    "score": 21,
+    "url": "https://www.urlchief.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Launched",
+    "score": 20,
+    "url": "https://launched.io",
+    "pricing": "Free"
+  },
+  {
+    "name": "PromoteProject",
+    "score": 20,
+    "url": "https://promoteproject.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Trendy Startups",
+    "score": 20,
+    "url": "http://trendystartups.com/register",
+    "pricing": "Free"
+  },
+  {
+    "name": "Cuspera",
+    "score": 19,
+    "url": "http://cuspera.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "PayOnceApps",
+    "score": 19,
+    "url": "https://payonceapps.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Postmake",
+    "score": 19,
+    "url": "http://postmake.io/submit",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Tool Salad",
+    "score": 18,
+    "url": "http://toolsalad.com/submit",
+    "pricing": "Free"
+  },
+  {
+    "name": "AppRater",
+    "score": 17,
+    "url": "https://apprater.net/add",
+    "pricing": "Free"
+  },
+  {
+    "name": "Cloudfindr",
+    "score": 17,
+    "url": "https://www.cloudfindr.co",
+    "pricing": "Free"
+  },
+  {
+    "name": "Makermove",
+    "score": 17,
+    "url": "http://makermove.com",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Startup Anz",
+    "score": 16,
+    "url": "http://startupanz.com/submit-a-startup",
+    "pricing": "Free"
+  },
+  {
+    "name": "Appoid",
+    "score": 15,
+    "url": "http://appiod.com/submit-app-for-review",
+    "pricing": "Paid"
+  },
+  {
+    "name": "GrowthJunkie",
+    "score": 14,
+    "url": "https://growthjunkie.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Insur-Tech",
+    "score": 13,
+    "url": "http://insur-tech.com/submit",
+    "pricing": "Free"
+  },
+  {
+    "name": "Joinly",
+    "score": 13,
+    "url": "http://joinly.xyz",
+    "pricing": "Free"
+  },
+  {
+    "name": "Startup Europe",
+    "score": 10,
+    "url": "http://startupeurope.net",
+    "pricing": "Free"
+  },
+  {
+    "name": "Startup Roulette",
+    "score": 10,
+    "url": "https://startuproulette.com/promote-my-startup",
+    "pricing": "Free"
+  },
+  {
+    "name": "AwesomeIndie",
+    "score": 9,
+    "url": "https://awesomeindie.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "ProfitHunt",
+    "score": 6,
+    "url": "https://profithunt.co",
+    "pricing": "Free"
+  },
+  {
+    "name": "Admire The Web",
+    "score": null,
+    "url": "https://www.admiretheweb.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "All My Faves",
+    "score": null,
+    "url": "https://allmyfaves.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Android United",
+    "score": null,
+    "url": "http://android-united.community",
+    "pricing": "Free"
+  },
+  {
+    "name": "Atlassian",
+    "score": null,
+    "url": "https://www.atlassian.com/blog/trello/trello-collection-atlassian-community",
+    "pricing": "Free"
+  },
+  {
+    "name": "Babel Slack",
+    "score": null,
+    "url": "https://slack.babeljs.io",
+    "pricing": "Free"
+  },
+  {
+    "name": "Behance",
+    "score": null,
+    "url": "http://behance.net",
+    "pricing": "Free"
+  },
+  {
+    "name": "Biggerpockets",
+    "score": null,
+    "url": "https://Biggerpockets.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Broadwise",
+    "score": null,
+    "url": "https://broadwise.org",
+    "pricing": "Free"
+  },
+  {
+    "name": "Cloud Foundry",
+    "score": null,
+    "url": "https://slack.cloudfoundry.org",
+    "pricing": "Free"
+  },
+  {
+    "name": "Cloud Native Computing Foundation",
+    "score": null,
+    "url": "https://slack.cncf.io",
+    "pricing": "Free"
+  },
+  {
+    "name": "CodeProject",
+    "score": null,
+    "url": "https://www.codeproject.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "CoFoundersLab",
+    "score": null,
+    "url": "https://cofounderslab.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Creative Tribes",
+    "score": null,
+    "url": "http://creativetribes.co",
+    "pricing": "Free"
+  },
+  {
+    "name": "CtrlAltCC",
+    "score": null,
+    "url": "https://ctrlalt.cc",
+    "pricing": "Free"
+  },
+  {
+    "name": "Data Quest",
+    "score": null,
+    "url": "https://www.dataquest.io/chat",
+    "pricing": "Free"
+  },
+  {
+    "name": "DevDojo",
+    "score": null,
+    "url": "https://devdojo.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "DevRant",
+    "score": null,
+    "url": "https://devrant.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Dribbble",
+    "score": null,
+    "url": "https://dribbble.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Elpha",
+    "score": null,
+    "url": "https://elpha.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Firebase",
+    "score": null,
+    "url": "https://firebase-community.appspot.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "FreeCodeCamp",
+    "score": null,
+    "url": "https://forum.freecodecamp.org",
+    "pricing": "Free"
+  },
+  {
+    "name": "Front-End Developers",
+    "score": null,
+    "url": "http://frontenddevelopers.org",
+    "pricing": "Free"
+  },
+  {
+    "name": "Fuse.Kiwi",
+    "score": null,
+    "url": "https://www.fuse.kiwi",
+    "pricing": "Free"
+  },
+  {
+    "name": "Hackers Pad",
+    "score": null,
+    "url": "https://hackerspad.net",
+    "pricing": "Free"
+  },
+  {
+    "name": "IOS Developers",
+    "score": null,
+    "url": "https://ios-developers.io",
+    "pricing": "Free"
+  },
+  {
+    "name": "Lobsters",
+    "score": null,
+    "url": "https://lobste.rs",
+    "pricing": "Free"
+  },
+  {
+    "name": "Microsoft Dev Chat",
+    "score": null,
+    "url": "http://msdev.chat",
+    "pricing": "Free"
+  },
+  {
+    "name": "Mind The Product",
+    "score": null,
+    "url": "http://slack.mindtheproduct.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Online Geniuses",
+    "score": null,
+    "url": "https://onlinegeniuses.com/marketplace",
+    "pricing": "Free"
+  },
+  {
+    "name": "Peer List",
+    "score": null,
+    "url": "https://peerlist.io",
+    "pricing": "Free"
+  },
+  {
+    "name": "Real World Beta Testing",
+    "score": null,
+    "url": "https://betatesting.com/beta-testing",
+    "pricing": "Free"
+  },
+  {
+    "name": "Silicon Prairie Tech",
+    "score": null,
+    "url": "http://siliconprairietech.com/invite",
+    "pricing": "Free"
+  },
+  {
+    "name": "Slant",
+    "score": null,
+    "url": "http://slant.co",
+    "pricing": "Free"
+  },
+  {
+    "name": "Startup Tile",
+    "score": null,
+    "url": "https://startuptile.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Stripe",
+    "score": null,
+    "url": "https://stripe.com/en-in/partner-proqram",
+    "pricing": "Free"
+  },
+  {
+    "name": "Tracxn",
+    "score": null,
+    "url": "https://tracxn.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Women In Technology",
+    "score": null,
+    "url": "http://witchat.github.io",
+    "pricing": "Free"
+  }
+]
