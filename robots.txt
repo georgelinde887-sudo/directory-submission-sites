@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://georgelinde887-sudo.github.io/directory-submission-sites/sitemap.xml
