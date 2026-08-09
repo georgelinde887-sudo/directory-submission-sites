@@ -618,18 +618,6 @@
     "pricing": "Free"
   },
   {
-    "name": "Firsto",
-    "url": "https://firsto.xyz",
-    "score": 50,
-    "pricing": "Free"
-  },
-  {
-    "name": "Hot100",
-    "url": "https://hot100.co",
-    "score": 50,
-    "pricing": "Free"
-  },
-  {
     "name": "Launch",
     "url": "https://launch.co",
     "score": 50,
@@ -639,18 +627,6 @@
     "name": "Shipybara",
     "url": "https://shipybara.com",
     "score": 50,
-    "pricing": "Free"
-  },
-  {
-    "name": "Startups Lab",
-    "url": "https://startupslab.io",
-    "score": 50,
-    "pricing": "Free"
-  },
-  {
-    "name": "Trust Mr",
-    "score": 50,
-    "url": "https://trustmr.com",
     "pricing": "Free"
   },
   {
@@ -924,12 +900,6 @@
     "pricing": "Free"
   },
   {
-    "name": "EuroAlternative",
-    "url": "https://euroalternative.com",
-    "score": 35,
-    "pricing": "Free"
-  },
-  {
     "name": "FindYourSaaS",
     "url": "https://findyoursaas.com",
     "score": 35,
@@ -944,12 +914,6 @@
   {
     "name": "IndieHub",
     "url": "https://indiehub.co",
-    "score": 35,
-    "pricing": "Free"
-  },
-  {
-    "name": "JustGotFound",
-    "url": "https://justgotfound.com",
     "score": 35,
     "pricing": "Free"
   },
@@ -1002,12 +966,6 @@
     "pricing": "Free"
   },
   {
-    "name": "ProductLaunchpad",
-    "url": "https://productlaunchpad.co",
-    "score": 35,
-    "pricing": "Free"
-  },
-  {
     "name": "ProofStories",
     "url": "https://proofstories.com",
     "score": 35,
@@ -1016,12 +974,6 @@
   {
     "name": "RankYourAI",
     "url": "https://rankyourai.com",
-    "score": 35,
-    "pricing": "Free"
-  },
-  {
-    "name": "Resource FYI",
-    "url": "https://resources.fyi",
     "score": 35,
     "pricing": "Free"
   },
@@ -1040,18 +992,6 @@
   {
     "name": "SaaSPage",
     "url": "https://saaspage.com",
-    "score": 35,
-    "pricing": "Free"
-  },
-  {
-    "name": "SaaSSy Board",
-    "url": "https://saassyboard.com",
-    "score": 35,
-    "pricing": "Free"
-  },
-  {
-    "name": "SideHunt",
-    "url": "https://sidehunt.co",
     "score": 35,
     "pricing": "Free"
   },
@@ -1232,7 +1172,7 @@
   {
     "name": "All Things AI",
     "score": 30,
-    "url": "https://allthingsai.com",
+    "url": "https://allthings.ai",
     "pricing": "Free"
   },
   {

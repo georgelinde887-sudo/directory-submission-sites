@@ -107,12 +107,8 @@
 | Startup Ranking | 51 | http://startupranking.com/ | Free |
 | Daily Pings | 50 | https://dailypings.com | Free |
 | DodoDirectory | 50 | https://dododirectory.com | Free |
-| Firsto | 50 | https://firsto.xyz | Free |
-| Hot100 | 50 | https://hot100.co | Free |
 | Launch | 50 | https://launch.co | Free |
 | Shipybara | 50 | https://shipybara.com | Free |
-| Startups Lab | 50 | https://startupslab.io | Free |
-| Trust Mr | 50 | https://trustmr.com | Free |
 | Uneed | 50 | http://uneed.best/submit-a-tool | Free |
 | Snapmunk | 49 | http://startups.snapmunk.com/join | Free |
 | StartupBlink | 49 | http://startupblink.com/ | Free |
@@ -158,11 +154,9 @@
 | BuildVoyage | 35 | https://buildvoyage.com | Free |
 | BuiltByIndies | 35 | https://builtbyindies.com | Free |
 | ConfettiSaaS | 35 | https://confettisaas.com | Free |
-| EuroAlternative | 35 | https://euroalternative.com | Free |
 | FindYourSaaS | 35 | https://findyoursaas.com | Free |
 | Hunt0 | 35 | https://hunt0.com | Free |
 | IndieHub | 35 | https://indiehub.co | Free |
-| JustGotFound | 35 | https://justgotfound.com | Free |
 | Launch Vibe | 35 | https://launchvibe.com | Free |
 | Launching Next | 35 | https://www.launchingnext.com | Free |
 | Launchy Tools | 35 | https://launchy.tools | Free |
@@ -171,15 +165,11 @@
 | Micro SaaS Examples | 35 | https://microsaas-examples.com | Free |
 | Postioo | 35 | https://postioo.com | Free |
 | ProductBurst | 35 | https://productburst.com | Free |
-| ProductLaunchpad | 35 | https://productlaunchpad.co | Free |
 | ProofStories | 35 | https://proofstories.com | Free |
 | RankYourAI | 35 | https://rankyourai.com | Free |
-| Resource FYI | 35 | https://resources.fyi | Free |
 | SaaS Bison | 35 | https://saasbison.com | Free |
 | SaaSGrow | 35 | https://saasgrow.com | Free |
 | SaaSPage | 35 | https://saaspage.com | Free |
-| SaaSSy Board | 35 | https://saassyboard.com | Free |
-| SideHunt | 35 | https://sidehunt.co | Free |
 | SoloPush | 35 | https://solopush.com | Free |
 | Startup88 | 35 | https://startup88.com | Free |
 | StartupListing | 35 | https://startuplist.ing | Free |
@@ -209,7 +199,7 @@
 | SWD | 32 | http://submissionwebdirectory.com/submit.php | Free |
 | Toolio | 31 | https://www.toolio.ai | Paid |
 | 9sites | 30 | http://9sites.net/addurl.php | Free |
-| All Things AI | 30 | https://allthingsai.com | Free |
+| All Things AI | 30 | https://allthings.ai | Free |
 | Betafy | 30 | http://betafy.co/easysignup/startup | Free |
 | Get Worm | 30 | https://getworm.com/submit-startup | Free |
 | Startups Watch | 30 | http://startups.watch/startups/new | Free |
