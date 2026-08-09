@@ -1,14 +1,26 @@
 [
   {
-    "name": "Reddit",
-    "score": 95,
-    "url": "https://www.reddit.com",
+    "name": "Google Business Profile",
+    "score": 100,
+    "url": "https://google.com/business",
     "pricing": "Free"
   },
   {
     "name": "AltHunt",
     "score": 95,
     "url": "https://althunt.io",
+    "pricing": "Free"
+  },
+  {
+    "name": "Reddit",
+    "score": 95,
+    "url": "https://www.reddit.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "TechCrunch",
+    "url": "https://techcrunch.com",
+    "score": 94,
     "pricing": "Free"
   },
   {
@@ -66,6 +78,12 @@
     "pricing": "Free"
   },
   {
+    "name": "Hashnode",
+    "score": 88,
+    "url": "https://hashnode.com",
+    "pricing": "Free"
+  },
+  {
     "name": "Tech In Asia",
     "score": 88,
     "url": "http://techinasia.com/companies/create",
@@ -78,9 +96,21 @@
     "pricing": "Free"
   },
   {
+    "name": "HackerNews",
+    "url": "https://news.ycombinator.com",
+    "score": 85,
+    "pricing": "Free"
+  },
+  {
     "name": "Dev Post",
     "score": 83,
     "url": "http://devpost.com/software",
+    "pricing": "Free"
+  },
+  {
+    "name": "StartupFA.me",
+    "url": "https://startupfa.me",
+    "score": 83,
     "pricing": "Free"
   },
   {
@@ -90,9 +120,21 @@
     "pricing": "Free"
   },
   {
+    "name": "Fazier",
+    "url": "https://fazier.com",
+    "score": 82,
+    "pricing": "Free"
+  },
+  {
     "name": "AlternativeTo",
     "score": 80,
     "url": "http://alternativeto.net/manage-item",
+    "pricing": "Free"
+  },
+  {
+    "name": "Findly.tools",
+    "url": "https://findly.tools",
+    "score": 80,
     "pricing": "Free"
   },
   {
@@ -144,6 +186,18 @@
     "pricing": "Free"
   },
   {
+    "name": "LaunchIgniter",
+    "url": "https://launchigniter.com",
+    "score": 75,
+    "pricing": "Free"
+  },
+  {
+    "name": "SubmitAITools",
+    "url": "https://submitaitools.org",
+    "score": 75,
+    "pricing": "Free"
+  },
+  {
     "name": "SoftwareWorld",
     "score": 74,
     "url": "http://softwareworld.co/register",
@@ -162,15 +216,15 @@
     "pricing": "Free"
   },
   {
-    "name": "BetaList",
-    "score": 73,
-    "url": "http://betalist.com/submissions/new",
-    "pricing": "Free"
-  },
-  {
     "name": "e27.sg",
     "score": 73,
     "url": "http://e27.co",
+    "pricing": "Free"
+  },
+  {
+    "name": "PeerPush",
+    "url": "https://peerpush.com",
+    "score": 73,
     "pricing": "Free"
   },
   {
@@ -180,9 +234,39 @@
     "pricing": "Free"
   },
   {
+    "name": "Aura++",
+    "score": 72,
+    "url": "https://auraplusplus.com",
+    "pricing": "Free"
+  },
+  {
     "name": "Capterra",
     "score": 72,
     "url": "http://capterra.com/vendors",
+    "pricing": "Free"
+  },
+  {
+    "name": "FoundrList",
+    "url": "https://foundrlist.com",
+    "score": 72,
+    "pricing": "Free"
+  },
+  {
+    "name": "neeed.directory",
+    "url": "https://neeed.directory",
+    "score": 72,
+    "pricing": "Free"
+  },
+  {
+    "name": "StartupFA.st",
+    "url": "https://startupfa.st",
+    "score": 72,
+    "pricing": "Free"
+  },
+  {
+    "name": "TinyLaunch",
+    "url": "https://www.tinylaunch.com",
+    "score": 72,
     "pricing": "Free"
   },
   {
@@ -198,6 +282,12 @@
     "pricing": "Free"
   },
   {
+    "name": "Open Launch",
+    "url": "https://open-launch.com",
+    "score": 71,
+    "pricing": "Free"
+  },
+  {
     "name": "SaaSHub",
     "score": 71,
     "url": "http://saashub.com/submit",
@@ -207,6 +297,18 @@
     "name": "SiteJabber",
     "score": 71,
     "url": "http://sitejabber.com/",
+    "pricing": "Free"
+  },
+  {
+    "name": "Smol Launch",
+    "url": "https://smollaunch.com",
+    "score": 71,
+    "pricing": "Free"
+  },
+  {
+    "name": "Tiny Startups",
+    "url": "https://tinystartups.com",
+    "score": 71,
     "pricing": "Free"
   },
   {
@@ -222,16 +324,70 @@
     "pricing": "Free"
   },
   {
+    "name": "TrustMRR",
+    "url": "https://trustmrr.com",
+    "score": 70,
+    "pricing": "Free"
+  },
+  {
+    "name": "MagicBox Tools",
+    "url": "https://magicbox.tools",
+    "score": 69,
+    "pricing": "Free"
+  },
+  {
+    "name": "Pitchwall",
+    "url": "https://pitchwall.co",
+    "score": 69,
+    "pricing": "Free"
+  },
+  {
+    "name": "Versily",
+    "url": "https://versily.com",
+    "score": 69,
+    "pricing": "Free"
+  },
+  {
+    "name": "acidtools.com",
+    "url": "https://acidtools.com",
+    "score": 68,
+    "pricing": "Free"
+  },
+  {
+    "name": "AiTools",
+    "url": "https://aitools.inc",
+    "score": 68,
+    "pricing": "Free"
+  },
+  {
     "name": "American Inno",
     "score": 68,
     "url": "http://americaninno.com/post-a-startup/",
     "pricing": "Free"
   },
   {
-    "name": "Dang",
-    "score": 67,
-    "url": "http://dang.ai/submit",
-    "pricing": "Paid"
+    "name": "Launch Llama Tools",
+    "url": "https://tools.launchllama.co",
+    "score": 68,
+    "pricing": "Free"
+  },
+  {
+    "name": "NextGen Tools",
+    "url": "https://www.nxgntools.com",
+    "score": 68,
+    "pricing": "Free"
+  },
+  {
+    "name": "Openhunts",
+    "url": "https://openhunts.com",
+    "score": 68,
+    "pricing": "Free"
+  },
+  {
+    "name": "toolsfine",
+    "url": "https://toolsfine.com",
+    "score": 68,
+    "pricing": "Free"
   },
   {
     "name": "PeerSpot",
@@ -288,15 +444,15 @@
     "pricing": "Free"
   },
   {
-    "name": "SubmissionWebDirectory",
-    "score": 64,
-    "url": "https://www.submissionwebdirectory.com",
-    "pricing": "Free"
-  },
-  {
     "name": "Techjockey",
     "score": 64,
     "url": "https://www.techjockey.com/",
+    "pricing": "Free"
+  },
+  {
+    "name": "Uno Directory",
+    "url": "https://uno.directory",
+    "score": 63,
     "pricing": "Free"
   },
   {
@@ -306,9 +462,45 @@
     "pricing": "Free"
   },
   {
+    "name": "MicroLaunch",
+    "url": "https://microlaunch.net",
+    "score": 62,
+    "pricing": "Free"
+  },
+  {
     "name": "betalist.com",
     "score": 61,
     "url": "http://betalist.com/",
+    "pricing": "Free"
+  },
+  {
+    "name": "Indie Deals",
+    "url": "https://www.indie.deals",
+    "score": 61,
+    "pricing": "Free"
+  },
+  {
+    "name": "Super Launch",
+    "url": "https://www.superlaun.ch",
+    "score": 61,
+    "pricing": "Free"
+  },
+  {
+    "name": "Toolfio",
+    "score": 61,
+    "url": "https://toolfio.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Huzzler",
+    "url": "https://huzzler.so",
+    "score": 60,
+    "pricing": "Free"
+  },
+  {
+    "name": "Indiehunt",
+    "url": "https://indiehunt.io",
+    "score": 60,
     "pricing": "Free"
   },
   {
@@ -327,6 +519,18 @@
     "name": "AppSumo",
     "score": 59,
     "url": "https://sell.appsumo.com/",
+    "pricing": "Free"
+  },
+  {
+    "name": "aiwith.me",
+    "url": "https://aiwith.me",
+    "score": 58,
+    "pricing": "Free"
+  },
+  {
+    "name": "FridayHunt",
+    "url": "https://fridayhunt.com",
+    "score": 58,
     "pricing": "Free"
   },
   {
@@ -351,6 +555,30 @@
     "name": "TechDirectory",
     "score": 56,
     "url": "http://techdirectory.io/get-listed",
+    "pricing": "Free"
+  },
+  {
+    "name": "Unite List",
+    "url": "https://unitelist.com",
+    "score": 56,
+    "pricing": "Free"
+  },
+  {
+    "name": "EarlyHunt",
+    "score": 55,
+    "url": "https://earlyhunt.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Made with Bolt",
+    "url": "https://bolt.new",
+    "score": 55,
+    "pricing": "Free"
+  },
+  {
+    "name": "SaaSHunt",
+    "url": "https://saashunt.best",
+    "score": 55,
     "pricing": "Free"
   },
   {
@@ -420,6 +648,54 @@
     "pricing": "Free"
   },
   {
+    "name": "Daily Pings",
+    "url": "https://dailypings.com",
+    "score": 50,
+    "pricing": "Free"
+  },
+  {
+    "name": "DodoDirectory",
+    "score": 50,
+    "url": "https://dododirectory.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "Firsto",
+    "url": "https://firsto.xyz",
+    "score": 50,
+    "pricing": "Free"
+  },
+  {
+    "name": "Hot100",
+    "url": "https://hot100.co",
+    "score": 50,
+    "pricing": "Free"
+  },
+  {
+    "name": "Launch",
+    "url": "https://launch.co",
+    "score": 50,
+    "pricing": "Free"
+  },
+  {
+    "name": "Shipybara",
+    "url": "https://shipybara.com",
+    "score": 50,
+    "pricing": "Free"
+  },
+  {
+    "name": "Startups Lab",
+    "url": "https://startupslab.io",
+    "score": 50,
+    "pricing": "Free"
+  },
+  {
+    "name": "Trust Mr",
+    "score": 50,
+    "url": "https://trustmr.com",
+    "pricing": "Free"
+  },
+  {
     "name": "Uneed",
     "score": 50,
     "url": "http://uneed.best/submit-a-tool",
@@ -480,6 +756,18 @@
     "pricing": "Free"
   },
   {
+    "name": "AI Tech Viral",
+    "url": "https://aitechviral.com",
+    "score": 45,
+    "pricing": "Free"
+  },
+  {
+    "name": "Alternative.tools",
+    "score": 45,
+    "url": "https://alternative.tools",
+    "pricing": "Free"
+  },
+  {
     "name": "Ben's Bites News",
     "score": 45,
     "url": "http://news.bensbites.co/submit",
@@ -489,12 +777,6 @@
     "name": "Crozdesk Ltd",
     "score": 45,
     "url": "http://crozdesk.com/",
-    "pricing": "Free"
-  },
-  {
-    "name": "Insidr AI Tools",
-    "score": 45,
-    "url": "http://insidr.ai/submit-tools",
     "pricing": "Free"
   },
   {
@@ -525,12 +807,6 @@
     "name": "Mars AI Directory",
     "score": 44,
     "url": "http://marsx.dev/ai-startups",
-    "pricing": "Free"
-  },
-  {
-    "name": "Tiny Startups",
-    "score": 44,
-    "url": "http://tally.so/r/wMzP8X",
     "pricing": "Free"
   },
   {
@@ -606,6 +882,42 @@
     "pricing": "Free"
   },
   {
+    "name": "AppaList",
+    "url": "https://appalist.com",
+    "score": 40,
+    "pricing": "Free"
+  },
+  {
+    "name": "IdeaKiln",
+    "url": "https://ideakiln.com",
+    "score": 40,
+    "pricing": "Free"
+  },
+  {
+    "name": "OpenAlternative",
+    "url": "https://openalternative.co",
+    "score": 40,
+    "pricing": "Free"
+  },
+  {
+    "name": "RankInPublic",
+    "url": "https://rankinpublic.xyz",
+    "score": 40,
+    "pricing": "Free"
+  },
+  {
+    "name": "Scroll Launch",
+    "score": 40,
+    "url": "https://scroll.pub",
+    "pricing": "Paid"
+  },
+  {
+    "name": "StartupTrusted",
+    "url": "https://startuptrusted.com",
+    "score": 40,
+    "pricing": "Free"
+  },
+  {
     "name": "Tool Piot",
     "score": 40,
     "url": "https://www.toolpilot.ai/",
@@ -621,12 +933,6 @@
     "name": "Inn Mind",
     "score": 38,
     "url": "http://app.innmind.com/startups",
-    "pricing": "Free"
-  },
-  {
-    "name": "MicroLaunch",
-    "score": 38,
-    "url": "http://tally.so/r/mYaR6N",
     "pricing": "Free"
   },
   {
@@ -648,10 +954,82 @@
     "pricing": "Free"
   },
   {
+    "name": "1000 Tools",
+    "url": "https://1000tools.com",
+    "score": 35,
+    "pricing": "Free"
+  },
+  {
     "name": "Aixploria",
     "score": 35,
     "url": "https://www.aixploria.com/en/add-ai/",
     "pricing": "Paid"
+  },
+  {
+    "name": "Awesome Tools",
+    "url": "https://awesometools.com",
+    "score": 35,
+    "pricing": "Free"
+  },
+  {
+    "name": "Best of Web",
+    "url": "https://bestofweb.com",
+    "score": 35,
+    "pricing": "Free"
+  },
+  {
+    "name": "BuildVoyage",
+    "url": "https://buildvoyage.com",
+    "score": 35,
+    "pricing": "Free"
+  },
+  {
+    "name": "BuiltByIndies",
+    "url": "https://builtbyindies.com",
+    "score": 35,
+    "pricing": "Free"
+  },
+  {
+    "name": "ConfettiSaaS",
+    "url": "https://confettisaas.com",
+    "score": 35,
+    "pricing": "Free"
+  },
+  {
+    "name": "EuroAlternative",
+    "url": "https://euroalternative.com",
+    "score": 35,
+    "pricing": "Free"
+  },
+  {
+    "name": "FindYourSaaS",
+    "url": "https://findyoursaas.com",
+    "score": 35,
+    "pricing": "Free"
+  },
+  {
+    "name": "Hunt0",
+    "url": "https://hunt0.com",
+    "score": 35,
+    "pricing": "Free"
+  },
+  {
+    "name": "IndieHub",
+    "url": "https://indiehub.co",
+    "score": 35,
+    "pricing": "Free"
+  },
+  {
+    "name": "JustGotFound",
+    "url": "https://justgotfound.com",
+    "score": 35,
+    "pricing": "Free"
+  },
+  {
+    "name": "Launch Vibe",
+    "url": "https://launchvibe.com",
+    "score": 35,
+    "pricing": "Free"
   },
   {
     "name": "Launching Next",
@@ -660,9 +1038,213 @@
     "pricing": "Free"
   },
   {
+    "name": "Launchy Tools",
+    "url": "https://launchy.tools",
+    "score": 35,
+    "pricing": "Free"
+  },
+  {
+    "name": "LLM Relevance",
+    "url": "https://llmrelevance.com",
+    "score": 35,
+    "pricing": "Free"
+  },
+  {
+    "name": "Made with Lovable",
+    "url": "https://lovable.dev",
+    "score": 35,
+    "pricing": "Free"
+  },
+  {
+    "name": "MakerHunt",
+    "url": "https://makerhunt.co",
+    "score": 35,
+    "pricing": "Free"
+  },
+  {
+    "name": "Micro SaaS Examples",
+    "url": "https://microsaas-examples.com",
+    "score": 35,
+    "pricing": "Free"
+  },
+  {
+    "name": "Postioo",
+    "url": "https://postioo.com",
+    "score": 35,
+    "pricing": "Free"
+  },
+  {
+    "name": "ProductBurst",
+    "url": "https://productburst.com",
+    "score": 35,
+    "pricing": "Free"
+  },
+  {
+    "name": "ProductLaunchpad",
+    "url": "https://productlaunchpad.co",
+    "score": 35,
+    "pricing": "Free"
+  },
+  {
+    "name": "ProofStories",
+    "url": "https://proofstories.com",
+    "score": 35,
+    "pricing": "Free"
+  },
+  {
+    "name": "RankYourAI",
+    "url": "https://rankyourai.com",
+    "score": 35,
+    "pricing": "Free"
+  },
+  {
+    "name": "Resource FYI",
+    "url": "https://resources.fyi",
+    "score": 35,
+    "pricing": "Free"
+  },
+  {
+    "name": "SaaS Bison",
+    "url": "https://saasbison.com",
+    "score": 35,
+    "pricing": "Free"
+  },
+  {
+    "name": "SaaSGrow",
+    "url": "https://saasgrow.com",
+    "score": 35,
+    "pricing": "Free"
+  },
+  {
+    "name": "SaaSPage",
+    "url": "https://saaspage.com",
+    "score": 35,
+    "pricing": "Free"
+  },
+  {
+    "name": "SaaSSy Board",
+    "url": "https://saassyboard.com",
+    "score": 35,
+    "pricing": "Free"
+  },
+  {
+    "name": "Shipyard HQ",
+    "url": "https://shipyardhq.com",
+    "score": 35,
+    "pricing": "Free"
+  },
+  {
+    "name": "SideHunt",
+    "url": "https://sidehunt.co",
+    "score": 35,
+    "pricing": "Free"
+  },
+  {
+    "name": "SoloPush",
+    "url": "https://solopush.com",
+    "score": 35,
+    "pricing": "Free"
+  },
+  {
     "name": "Startup88",
     "score": 35,
     "url": "https://startup88.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "StartupListing",
+    "url": "https://startuplist.ing",
+    "score": 35,
+    "pricing": "Free"
+  },
+  {
+    "name": "Startups FYI",
+    "url": "https://startups.fyi",
+    "score": 35,
+    "pricing": "Free"
+  },
+  {
+    "name": "Startups.fm",
+    "url": "https://startups.fm",
+    "score": 35,
+    "pricing": "Free"
+  },
+  {
+    "name": "Startuups",
+    "url": "https://startuups.com",
+    "score": 35,
+    "pricing": "Free"
+  },
+  {
+    "name": "Stellar Launch",
+    "url": "https://stellarlaunch.com",
+    "score": 35,
+    "pricing": "Free"
+  },
+  {
+    "name": "SubmitHunt",
+    "url": "https://submithunt.com",
+    "score": 35,
+    "pricing": "Free"
+  },
+  {
+    "name": "SumoDir",
+    "url": "https://sumodir.com",
+    "score": 35,
+    "pricing": "Free"
+  },
+  {
+    "name": "TechTrendIn",
+    "url": "https://techtrendin.com",
+    "score": 35,
+    "pricing": "Free"
+  },
+  {
+    "name": "TinyLaunchpad",
+    "url": "https://tinylaunchpad.com",
+    "score": 35,
+    "pricing": "Free"
+  },
+  {
+    "name": "ToolCurio",
+    "url": "https://toolcurio.com",
+    "score": 35,
+    "pricing": "Free"
+  },
+  {
+    "name": "Toolfolio",
+    "url": "https://toolfolio.com",
+    "score": 35,
+    "pricing": "Free"
+  },
+  {
+    "name": "ToolHub",
+    "url": "https://toolhub.dev",
+    "score": 35,
+    "pricing": "Free"
+  },
+  {
+    "name": "ToolList",
+    "url": "https://toollist.ai",
+    "score": 35,
+    "pricing": "Free"
+  },
+  {
+    "name": "Tulimoa",
+    "url": "https://tulimoa.com",
+    "score": 35,
+    "pricing": "Free"
+  },
+  {
+    "name": "We Like Tools",
+    "url": "https://weliketools.com",
+    "score": 35,
+    "pricing": "Free"
+  },
+  {
+    "name": "Web Review",
+    "url": "https://webreview.org",
+    "score": 35,
     "pricing": "Free"
   },
   {
@@ -780,6 +1362,24 @@
     "pricing": "Free"
   },
   {
+    "name": "tinylaun.ch",
+    "score": 30,
+    "url": "https://tinylaun.ch",
+    "pricing": "Free"
+  },
+  {
+    "name": "turbo0.com",
+    "score": 30,
+    "url": "https://turbo0.com",
+    "pricing": "Free"
+  },
+  {
+    "name": "twelve.tools",
+    "score": 30,
+    "url": "https://twelve.tools",
+    "pricing": "Free"
+  },
+  {
     "name": "Being Guru",
     "score": 29,
     "url": "http://beingguru.com/submit-startup/",
@@ -856,12 +1456,6 @@
     "score": 25,
     "url": "http://comparasoftware.com/",
     "pricing": "Free"
-  },
-  {
-    "name": "Startup Spotlight",
-    "score": 25,
-    "url": "http://tally.so/r/nrLJRp",
-    "pricing": "Paid"
   },
   {
     "name": "The Startup INC",
