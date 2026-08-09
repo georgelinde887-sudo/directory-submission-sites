@@ -222,12 +222,6 @@
     "pricing": "Free"
   },
   {
-    "name": "PeerPush",
-    "url": "https://peerpush.com",
-    "score": 73,
-    "pricing": "Free"
-  },
-  {
     "name": "SaaSworthy",
     "score": 73,
     "url": "http://saasworthy.com/offerings",
@@ -567,12 +561,6 @@
     "name": "EarlyHunt",
     "score": 55,
     "url": "https://earlyhunt.com",
-    "pricing": "Free"
-  },
-  {
-    "name": "Made with Bolt",
-    "url": "https://bolt.new",
-    "score": 55,
     "pricing": "Free"
   },
   {
@@ -1050,12 +1038,6 @@
     "pricing": "Free"
   },
   {
-    "name": "Made with Lovable",
-    "url": "https://lovable.dev",
-    "score": 35,
-    "pricing": "Free"
-  },
-  {
     "name": "MakerHunt",
     "url": "https://makerhunt.co",
     "score": 35,
@@ -1124,12 +1106,6 @@
   {
     "name": "SaaSSy Board",
     "url": "https://saassyboard.com",
-    "score": 35,
-    "pricing": "Free"
-  },
-  {
-    "name": "Shipyard HQ",
-    "url": "https://shipyardhq.com",
     "score": 35,
     "pricing": "Free"
   },
