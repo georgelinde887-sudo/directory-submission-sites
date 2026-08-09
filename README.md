@@ -14,11 +14,8 @@
 | Digital Trends | 92 | http://digitaltrends.com/ | Free |
 | About .me | 90 | http://about.me/signup/start | Free |
 | Gartner | 90 | http://gartner.com/en/digital-markets/basic-listing | Free |
-| Glassdoor | 90 | http://glassdoor.com/ | Free |
 | ProductHunt | 89 | http://producthunt.com/ | Free |
-| Geek Wire | 88 | http://geekwire.com/startup-list/ | Free |
 | Hashnode | 88 | https://hashnode.com | Free |
-| Tech In Asia | 88 | http://techinasia.com/companies/create | Free |
 | Angel List | 87 | http://angel.co | Free |
 | HackerNews | 85 | https://news.ycombinator.com | Free |
 | Dev Post | 83 | http://devpost.com/software | Free |
@@ -40,7 +37,6 @@
 | SoftwareWorld | 74 | http://softwareworld.co/register | Free |
 | There's An AI For That | 74 | https://theresanaiforthat.com | Paid |
 | Alternative Me | 73 | https://alternative.me | Free |
-| e27.sg | 73 | http://e27.co | Free |
 | SaaSworthy | 73 | http://saasworthy.com/offerings | Free |
 | Aura++ | 72 | https://auraplusplus.com | Free |
 | Capterra | 72 | http://capterra.com/vendors | Free |
@@ -102,7 +98,6 @@
 | Startupxplore | 55 | http://startupxplore.com/ | Free |
 | FiveTaco | 54 | http://fivetaco.com/submit | Free |
 | AppAgg | 52 | http://appagg.com/ | Free |
-| Changelog | 52 | http://changelog.com/sponsor/pricing | Free |
 | NoCodeDevs | 52 | https://www.nocodedevs.com | Free |
 | Serchen | 52 | http://serchen.com/get-listed/ | Paid |
 | StartUp Base | 52 | http://startupbase.io/submit | Free |
@@ -130,22 +125,17 @@
 | Zumvu | 46 | http://zumvu.com/make-profile.zvx | Free |
 | AI Tech Viral | 45 | https://aitechviral.com | Free |
 | Alternative.tools | 45 | https://alternative.tools | Free |
-| Ben's Bites News | 45 | http://news.bensbites.co/submit | Free |
 | Crozdesk Ltd | 45 | http://crozdesk.com/ | Free |
-| Starter Story | 45 | http://starterstory.com/ | Paid |
 | Toolify | 45 | https://toolify.ai | Paid |
-| Workspaces | 45 | http://workspaces.xyz/submit-a-workspace-workspaces | Free |
 | Exact Seek | 44 | http://exactseek.com/add.html | Free |
 | Mars AI Directory | 44 | http://marsx.dev/ai-startups | Free |
 | VentureRadar | 44 | http://ventureradar.com/add_company | Free |
 | Business Software | 43 | http://business-software.com/add-your-product/ | Free |
-| Linus Ekenstam Super New | 43 | https://linusekenstam.typeform.com/super-new | Free |
 | Tech Pluto | 43 | http://techpluto.com/submit-a-startup/ | Free |
 | Beta Page | 42 | http://betapage.co/submit-startup | Free |
 | Insidr | 42 | https://www.insidr.ai/submit-tools/ | Free |
 | Magnitt | 42 | http://magnitt.com/startups | Free |
 | NoCodeList | 42 | http://nocodelist.co/submit | Free |
-| Land-book | 41 | http://land-book.com/ | Free |
 | New-Startups | 41 | http://new-startups.com/ | Free |
 | Startup Guys | 41 | http://startupguys.net/submit-startup/ | Paid |
 | AI Infinity | 40 | https://aiinfinity-meetpatel.notion.site/AI-Infinity-AI-Tools-Directory-0da673c487124ea2b6f8ebe59b75a231 | Free |
@@ -208,9 +198,7 @@
 | Tulimoa | 35 | https://tulimoa.com | Free |
 | We Like Tools | 35 | https://weliketools.com | Free |
 | Web Review | 35 | https://webreview.org | Free |
-| Appy Smarts | 34 | http://appysmarts.com/ | Free |
 | Dang AI Tools | 34 | https://dang.ai | Free |
-| Makerlog | 34 | http://getmakerlog.com/ | Free |
 | Paggu | 34 | http://paggu.com/submit-your-startup/ | Free |
 | Cipinet | 33 | http://cipinet.com/suggest.php? | Free |
 | Project Hatch | 33 | http://projecthatch.co/your-story/ | Free |
@@ -224,15 +212,12 @@
 | All Things AI | 30 | https://allthingsai.com | Free |
 | Betafy | 30 | http://betafy.co/easysignup/startup | Free |
 | Get Worm | 30 | https://getworm.com/submit-startup | Free |
-| Robin Good's T5 | 30 | https://tools.robingood.com | Free |
 | Startups Watch | 30 | http://startups.watch/startups/new | Free |
 | thetechmap.com | 30 | http://thetechmap.com/Account/Login | Free |
 | tinylaun.ch | 30 | https://tinylaun.ch | Free |
 | turbo0.com | 30 | https://turbo0.com | Free |
 | twelve.tools | 30 | https://twelve.tools | Free |
-| Being Guru | 29 | http://beingguru.com/submit-startup/ | Free |
 | Hot To Buy SaaS | 29 | http://howtobuysaas.com/ | Free |
-| Smart Money Match | 29 | http://smartmoneymatch.com/ | Free |
 | WebAppRater | 29 | https://webapprater.com/submit-your-web-application-for-review-html | Paid |
 | Startup Buffer | 28 | https://startupbuffer.com | Paid |
 | 10words | 27 | http://portal.10words.io/submissions/submit | Free |

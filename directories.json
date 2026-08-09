@@ -60,33 +60,15 @@
     "pricing": "Free"
   },
   {
-    "name": "Glassdoor",
-    "score": 90,
-    "url": "http://glassdoor.com/",
-    "pricing": "Free"
-  },
-  {
     "name": "ProductHunt",
     "score": 89,
     "url": "http://producthunt.com/",
     "pricing": "Free"
   },
   {
-    "name": "Geek Wire",
-    "score": 88,
-    "url": "http://geekwire.com/startup-list/",
-    "pricing": "Free"
-  },
-  {
     "name": "Hashnode",
     "score": 88,
     "url": "https://hashnode.com",
-    "pricing": "Free"
-  },
-  {
-    "name": "Tech In Asia",
-    "score": 88,
-    "url": "http://techinasia.com/companies/create",
     "pricing": "Free"
   },
   {
@@ -213,12 +195,6 @@
     "name": "Alternative Me",
     "score": 73,
     "url": "https://alternative.me",
-    "pricing": "Free"
-  },
-  {
-    "name": "e27.sg",
-    "score": 73,
-    "url": "http://e27.co",
     "pricing": "Free"
   },
   {
@@ -588,12 +564,6 @@
     "pricing": "Free"
   },
   {
-    "name": "Changelog",
-    "score": 52,
-    "url": "http://changelog.com/sponsor/pricing",
-    "pricing": "Free"
-  },
-  {
     "name": "NoCodeDevs",
     "score": 52,
     "url": "https://www.nocodedevs.com",
@@ -756,34 +726,16 @@
     "pricing": "Free"
   },
   {
-    "name": "Ben's Bites News",
-    "score": 45,
-    "url": "http://news.bensbites.co/submit",
-    "pricing": "Free"
-  },
-  {
     "name": "Crozdesk Ltd",
     "score": 45,
     "url": "http://crozdesk.com/",
     "pricing": "Free"
   },
   {
-    "name": "Starter Story",
-    "score": 45,
-    "url": "http://starterstory.com/",
-    "pricing": "Paid"
-  },
-  {
     "name": "Toolify",
     "score": 45,
     "url": "https://toolify.ai",
     "pricing": "Paid"
-  },
-  {
-    "name": "Workspaces",
-    "score": 45,
-    "url": "http://workspaces.xyz/submit-a-workspace-workspaces",
-    "pricing": "Free"
   },
   {
     "name": "Exact Seek",
@@ -807,12 +759,6 @@
     "name": "Business Software",
     "score": 43,
     "url": "http://business-software.com/add-your-product/",
-    "pricing": "Free"
-  },
-  {
-    "name": "Linus Ekenstam Super New",
-    "score": 43,
-    "url": "https://linusekenstam.typeform.com/super-new",
     "pricing": "Free"
   },
   {
@@ -843,12 +789,6 @@
     "name": "NoCodeList",
     "score": 42,
     "url": "http://nocodelist.co/submit",
-    "pricing": "Free"
-  },
-  {
-    "name": "Land-book",
-    "score": 41,
-    "url": "http://land-book.com/",
     "pricing": "Free"
   },
   {
@@ -1224,21 +1164,9 @@
     "pricing": "Free"
   },
   {
-    "name": "Appy Smarts",
-    "score": 34,
-    "url": "http://appysmarts.com/",
-    "pricing": "Free"
-  },
-  {
     "name": "Dang AI Tools",
     "score": 34,
     "url": "https://dang.ai",
-    "pricing": "Free"
-  },
-  {
-    "name": "Makerlog",
-    "score": 34,
-    "url": "http://getmakerlog.com/",
     "pricing": "Free"
   },
   {
@@ -1320,12 +1248,6 @@
     "pricing": "Free"
   },
   {
-    "name": "Robin Good's T5",
-    "score": 30,
-    "url": "https://tools.robingood.com",
-    "pricing": "Free"
-  },
-  {
     "name": "Startups Watch",
     "score": 30,
     "url": "http://startups.watch/startups/new",
@@ -1356,21 +1278,9 @@
     "pricing": "Free"
   },
   {
-    "name": "Being Guru",
-    "score": 29,
-    "url": "http://beingguru.com/submit-startup/",
-    "pricing": "Free"
-  },
-  {
     "name": "Hot To Buy SaaS",
     "score": 29,
     "url": "http://howtobuysaas.com/",
-    "pricing": "Free"
-  },
-  {
-    "name": "Smart Money Match",
-    "score": 29,
-    "url": "http://smartmoneymatch.com/",
     "pricing": "Free"
   },
   {
