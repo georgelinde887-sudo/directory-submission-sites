@@ -30,6 +30,7 @@
 | DEV | 78 | http://dev.to/ | Free |
 | SoftwareSuggest | 77 | https://www.softwaresuggest.com | Free |
 | Inc42 | 76 | http://inc42.com/startup-submission/ | Free |
+| Siteefy | 76 | https://siteefy.com/submit-tool?utm_source=georgelinde | Free |
 | CrozDesk | 75 | http://vendor.softwareselect.com/user/signup | Free |
 | Gust | 75 | http://gust.com/ | Free |
 | LaunchIgniter | 75 | https://launchigniter.com | Free |
